@@ -3,7 +3,9 @@ export const SITE = {
   name: "Bệnh viện Mắt Bà Rịa – Vũng Tàu",
   shortName: "BV Mắt BR-VT",
   tagline: "Kỹ thuật cao – Chất lượng cao – Hiệu quả cao",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
+  url:
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3000"),
   description:
     "Bệnh viện chuyên khoa Mắt tuyến tỉnh: khám mắt, điều trị tật khúc xạ (ReLEx SMILE, LASIK), phẫu thuật Phaco, Glôcôm, nhãn nhi – lác, chấn thương và tạo hình thẩm mỹ mắt. Hệ thống thiết bị Carl Zeiss hiện đại.",
   founded: 2006,

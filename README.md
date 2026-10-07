@@ -73,7 +73,7 @@ Repo: `https://github.com/tsboi007/beh`
 | `AUTH_SECRET` | ✅ | Chuỗi ngẫu nhiên ≥ 32 ký tự, tạo bằng `openssl rand -hex 32` |
 | `ADMIN_EMAIL` | ✅ | Email đăng nhập Admin |
 | `ADMIN_PASSWORD` | ✅ | Mật khẩu Admin (mạnh, ≥ 12 ký tự) |
-| `NEXT_PUBLIC_SITE_URL` | ✅ | VD: `https://beh.vn` hoặc `https://beh.vercel.app` |
+| `NEXT_PUBLIC_SITE_URL` | Khi có tên miền riêng | VD: `https://beh.vn`. Để trống thì website tự dùng tên miền `*.vercel.app` của project |
 | `BLOB_READ_WRITE_TOKEN` | Nên có | Tự thêm ở bước 4 |
 | `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` | Tùy chọn | Gửi email báo lịch hẹn mới (Gmail: dùng *App Password*) |
 | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | Tùy chọn | Báo lịch hẹn mới qua Telegram |
