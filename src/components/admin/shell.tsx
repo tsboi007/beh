@@ -31,7 +31,7 @@ const NAV = [
   { href: "/admin/bai-viet", label: "Bài viết", icon: FileText },
   { href: "/admin/dich-vu", label: "Dịch vụ", icon: Stethoscope },
   { href: "/admin/bang-gia", label: "Bảng giá", icon: Wallet },
-  { href: "/admin/bac-si", label: "Bác sĩ", icon: UserRound },
+  { href: "/admin/bac-si", label: "Bác sĩ & nhân sự", icon: UserRound },
   { href: "/admin/tuyen-dung", label: "Tuyển dụng", icon: Briefcase },
   { href: "/admin/cai-dat", label: "Cài đặt", icon: Settings },
 ];

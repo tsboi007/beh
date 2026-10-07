@@ -34,8 +34,8 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   phone: "0254.3732 718",
   hotline: "0254.2205.129",
   email: "benhvienmatbaria@gmail.com",
-  workingHours: "Thứ 2 – Thứ 7: 7:00 – 16:30",
-  emergencyNote: "Khoa Khám bệnh – Cấp cứu tiếp nhận cấp cứu mắt",
+  workingHours: "Thứ 2 – Thứ 6: 7:15 – 11:30 và 13:30 – 16:45",
+  emergencyNote: "Thứ 7, Chủ nhật: chỉ tiếp nhận các trường hợp cấp cứu",
   zaloUrl: "https://zalo.me/02542205129",
   messengerUrl: "https://m.me/benhvienmatbrvt",
   facebookUrl: "https://www.facebook.com/benhvienmatbrvt",
@@ -131,13 +131,13 @@ export const NAV = [
 ] as const;
 
 export const TIME_SLOTS = [
-  "07:00 – 08:00",
-  "08:00 – 09:00",
-  "09:00 – 10:00",
-  "10:00 – 11:00",
+  "07:15 – 08:30",
+  "08:30 – 09:30",
+  "09:30 – 10:30",
+  "10:30 – 11:30",
   "13:30 – 14:30",
   "14:30 – 15:30",
-  "15:30 – 16:30",
+  "15:30 – 16:45",
 ] as const;
 
 export const QUESTION_TOPICS = [

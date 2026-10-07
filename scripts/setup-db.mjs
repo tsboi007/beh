@@ -82,6 +82,84 @@ if ((await count("jobs")) === 0) {
   console.log(`✓ Seeded ${seed.jobs.length} jobs (draft)`);
 }
 
+/* ---------- One-time data imports (recorded in settings so they never overwrite later Admin edits) ---------- */
+
+async function once(key, label, fn) {
+  const done = await db.execute(sql`select 1 from settings where key = ${key}`);
+  if (done.rows?.length) return;
+  await fn();
+  await db.execute(sql`insert into settings (key, value) values (${key}, ${new Date().toISOString()})`);
+  console.log(`✓ ${label}`);
+}
+
+const readJson = async (p) => JSON.parse(await (await import("node:fs/promises")).readFile(new URL(p, import.meta.url), "utf8"));
+
+async function insertBatched(table, rows, size = 50) {
+  for (let i = 0; i < rows.length; i += size) {
+    const chunk = rows.slice(i, i + size);
+    const cols = Object.keys(chunk[0]);
+    const values = chunk.map((r) => `(${cols.map((c) => lit(r[c])).join(",")})`).join(",");
+    await db.execute(sql.raw(`insert into ${table} (${cols.map((c) => `"${c}"`).join(",")}) values ${values}`));
+  }
+}
+
+// Official price list (Nghị quyết 399/NQ-HĐND, 28/08/2025) replaces the placeholder rows.
+await once("import:price-list-2025", "Imported official price list 2025", async () => {
+  const { items } = await readJson("./data/price-list-2025.json");
+  await db.execute(sql`delete from price_items`);
+  await insertBatched(
+    "price_items",
+    items.map((i) =>
+      snake({
+        category: i.category,
+        name: i.name,
+        price: i.price,
+        insurancePrice: i.insurancePrice,
+        insured: i.insurancePrice !== null,
+        unit: "lần",
+        note: i.note,
+        sortOrder: i.sortOrder,
+      }),
+    ),
+  );
+});
+
+// Staff list from the HIS user export (names, department, practising certificate only).
+await once("import:staff-2025", "Imported hospital staff list", async () => {
+  const staff = await readJson("./data/staff.json");
+  let order = 10;
+  for (const s of staff.sort((a, b) => Number(b.isDoctor) - Number(a.isDoctor))) {
+    const existing = await db.execute(sql`select id from doctors where slug = ${s.slug}`);
+    if (existing.rows?.length) {
+      await db.execute(sql`update doctors set license = ${s.license}, is_doctor = ${s.isDoctor} where slug = ${s.slug}`);
+    } else {
+      await insertBatched("doctors", [
+        snake({
+          slug: s.slug,
+          name: s.name,
+          degree: s.isDoctor ? "Bác sĩ" : "",
+          position: "",
+          specialty: s.department,
+          bio: "",
+          license: s.license,
+          isDoctor: s.isDoctor,
+          sortOrder: order++,
+        }),
+      ]);
+    }
+  }
+});
+
+// Official working hours (10/2026).
+await once("import:hours-2026-10", "Updated working hours", async () => {
+  for (const [key, value] of [
+    ["workingHours", "Thứ 2 – Thứ 6: 7:15 – 11:30 và 13:30 – 16:45"],
+    ["emergencyNote", "Thứ 7, Chủ nhật: chỉ tiếp nhận các trường hợp cấp cứu"],
+  ]) {
+    await db.execute(sql`insert into settings (key, value) values (${key}, ${value}) on conflict (key) do update set value = excluded.value`);
+  }
+});
+
 const email = process.env.ADMIN_EMAIL;
 const password = process.env.ADMIN_PASSWORD;
 if (email && password) {

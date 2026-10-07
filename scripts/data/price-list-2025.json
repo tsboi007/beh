@@ -1,0 +1,3929 @@
+{
+ "source": "Danh mục kỹ thuật chuyên môn tại BV Mắt – theo Nghị quyết 399/NQ-HĐND ngày 28/08/2025 của HĐND TP.HCM",
+ "items": [
+  {
+   "stt": 1,
+   "category": "Khám bệnh",
+   "name": "Khám bệnh cấp cứu",
+   "insurancePrice": "45.000",
+   "price": "45.000",
+   "note": null,
+   "sortOrder": 0
+  },
+  {
+   "stt": 2,
+   "category": "Khám bệnh",
+   "name": "Khám bệnh cho người nước ngoài",
+   "insurancePrice": null,
+   "price": "200.000",
+   "note": null,
+   "sortOrder": 1
+  },
+  {
+   "stt": 3,
+   "category": "Khám bệnh",
+   "name": "Khám chuyên khoa mắt",
+   "insurancePrice": "45.000",
+   "price": "45.000",
+   "note": null,
+   "sortOrder": 2
+  },
+  {
+   "stt": 7,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi đáy mắt cấp cứu",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 3
+  },
+  {
+   "stt": 13,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi đáy mắt cấp cứu tại giường",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 4
+  },
+  {
+   "stt": 14,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Điện tim thường",
+   "insurancePrice": "39.900",
+   "price": "39.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 5
+  },
+  {
+   "stt": 15,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Holter huyết áp",
+   "insurancePrice": "215.800",
+   "price": "215.800",
+   "note": null,
+   "sortOrder": 6
+  },
+  {
+   "stt": 46,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp khu trú dị vật nội nhãn",
+   "insurancePrice": "58.300",
+   "price": "58.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 7
+  },
+  {
+   "stt": 47,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp lỗ thị giác",
+   "insurancePrice": "58.300",
+   "price": "58.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 8
+  },
+  {
+   "stt": 48,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp khu trú dị vật nội nhãn",
+   "insurancePrice": "64.300",
+   "price": "64.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 9
+  },
+  {
+   "stt": 49,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp lỗ thị giác",
+   "insurancePrice": "64.300",
+   "price": "64.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 10
+  },
+  {
+   "stt": 50,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp Angiography mắt",
+   "insurancePrice": "222.300",
+   "price": "222.300",
+   "note": null,
+   "sortOrder": 11
+  },
+  {
+   "stt": 51,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp đáy mắt không huỳnh quang",
+   "insurancePrice": "222.300",
+   "price": "222.300",
+   "note": null,
+   "sortOrder": 12
+  },
+  {
+   "stt": 52,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp OCT bán phần sau nhãn cầu",
+   "insurancePrice": "222.300",
+   "price": "222.300",
+   "note": null,
+   "sortOrder": 13
+  },
+  {
+   "stt": 53,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp OCT bán phần trước nhãn cầu",
+   "insurancePrice": "222.300",
+   "price": "222.300",
+   "note": null,
+   "sortOrder": 14
+  },
+  {
+   "stt": 54,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp khu trú dị vật nội nhãn",
+   "insurancePrice": "73.300",
+   "price": "73.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 15
+  },
+  {
+   "stt": 55,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp lỗ thị giác",
+   "insurancePrice": "73.300",
+   "price": "73.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 16
+  },
+  {
+   "stt": 56,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp khu trú dị vật nội nhãn",
+   "insurancePrice": "105.300",
+   "price": "105.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 17
+  },
+  {
+   "stt": 57,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp lỗ thị giác",
+   "insurancePrice": "105.300",
+   "price": "105.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 18
+  },
+  {
+   "stt": 87,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp mạch ký huỳnh quang",
+   "insurancePrice": "322.000",
+   "price": "322.000",
+   "note": null,
+   "sortOrder": 19
+  },
+  {
+   "stt": 88,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp mạch với ICG",
+   "insurancePrice": "322.000",
+   "price": "322.000",
+   "note": null,
+   "sortOrder": 20
+  },
+  {
+   "stt": 89,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Điện chẩm kích thích",
+   "insurancePrice": "427.500",
+   "price": "427.500",
+   "note": null,
+   "sortOrder": 21
+  },
+  {
+   "stt": 92,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Điện nhãn cầu",
+   "insurancePrice": "112.800",
+   "price": "112.800",
+   "note": null,
+   "sortOrder": 22
+  },
+  {
+   "stt": 93,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Điện võng mạc",
+   "insurancePrice": "112.800",
+   "price": "112.800",
+   "note": null,
+   "sortOrder": 23
+  },
+  {
+   "stt": 98,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp bản đồ giác mạc",
+   "insurancePrice": "145.500",
+   "price": "145.500",
+   "note": null,
+   "sortOrder": 24
+  },
+  {
+   "stt": 99,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ dày giác mạc",
+   "insurancePrice": "145.500",
+   "price": "145.500",
+   "note": null,
+   "sortOrder": 25
+  },
+  {
+   "stt": 100,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo biên độ điều tiết",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 26
+  },
+  {
+   "stt": 101,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ lác",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 27
+  },
+  {
+   "stt": 102,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo thị giác 2 mắt",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": null,
+   "sortOrder": 28
+  },
+  {
+   "stt": 103,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo thị giác tương phản",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": null,
+   "sortOrder": 29
+  },
+  {
+   "stt": 104,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Xác định sơ đồ song thị",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 30
+  },
+  {
+   "stt": 105,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ lồi",
+   "insurancePrice": "68.000",
+   "price": "68.000",
+   "note": null,
+   "sortOrder": 31
+  },
+  {
+   "stt": 106,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ giác mạc",
+   "insurancePrice": "41.900",
+   "price": "41.900",
+   "note": null,
+   "sortOrder": 32
+  },
+  {
+   "stt": 107,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ máy",
+   "insurancePrice": "12.700",
+   "price": "12.700",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 33
+  },
+  {
+   "stt": 108,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo nhãn áp",
+   "insurancePrice": "31.600",
+   "price": "31.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 34
+  },
+  {
+   "stt": 109,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo thị trường chu biên",
+   "insurancePrice": "31.100",
+   "price": "31.100",
+   "note": null,
+   "sortOrder": 35
+  },
+  {
+   "stt": 110,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo thị trường trung tâm, thị trường ám điểm",
+   "insurancePrice": "31.100",
+   "price": "31.100",
+   "note": null,
+   "sortOrder": 36
+  },
+  {
+   "stt": 111,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo công suất thể thuỷ tinh nhân tạo bằng siêu âm",
+   "insurancePrice": "69.400",
+   "price": "69.400",
+   "note": null,
+   "sortOrder": 37
+  },
+  {
+   "stt": 182,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Nghiệm pháp phát hiện glôcôm",
+   "insurancePrice": "130.900",
+   "price": "130.900",
+   "note": null,
+   "sortOrder": 38
+  },
+  {
+   "stt": 183,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Theo dõi nhãn áp 3 ngày",
+   "insurancePrice": "130.900",
+   "price": "130.900",
+   "note": null,
+   "sortOrder": 39
+  },
+  {
+   "stt": 249,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo sắc giác",
+   "insurancePrice": "80.600",
+   "price": "80.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 40
+  },
+  {
+   "stt": 250,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Siêu âm bán phần trước",
+   "insurancePrice": "241.500",
+   "price": "241.500",
+   "note": null,
+   "sortOrder": 41
+  },
+  {
+   "stt": 251,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Siêu âm mắt",
+   "insurancePrice": "69.700",
+   "price": "69.700",
+   "note": null,
+   "sortOrder": 42
+  },
+  {
+   "stt": 255,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ khách quan (soi bóng đồng tử - Skiascope)",
+   "insurancePrice": "33.600",
+   "price": "33.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 43
+  },
+  {
+   "stt": 256,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi đáy mắt bằng kính 3 mặt gương",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 44
+  },
+  {
+   "stt": 257,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi đáy mắt bằng Schepens",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 45
+  },
+  {
+   "stt": 258,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi đáy mắt trực tiếp",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 46
+  },
+  {
+   "stt": 259,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Soi góc tiền phòng",
+   "insurancePrice": "60.000",
+   "price": "60.000",
+   "note": null,
+   "sortOrder": 47
+  },
+  {
+   "stt": 263,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Test phát hiện khô mắt",
+   "insurancePrice": "46.400",
+   "price": "46.400",
+   "note": null,
+   "sortOrder": 48
+  },
+  {
+   "stt": 264,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Test thử cảm giác giác mạc",
+   "insurancePrice": "46.400",
+   "price": "46.400",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 49
+  },
+  {
+   "stt": 288,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp đáy mắt RETCAM",
+   "insurancePrice": "344.200",
+   "price": "344.200",
+   "note": null,
+   "sortOrder": 50
+  },
+  {
+   "stt": 289,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Chụp đĩa thị 3D",
+   "insurancePrice": "344.200",
+   "price": "344.200",
+   "note": null,
+   "sortOrder": 51
+  },
+  {
+   "stt": 290,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo lưu huyết mạch máu đáy mắt bằng doppler",
+   "insurancePrice": "344.200",
+   "price": "344.200",
+   "note": null,
+   "sortOrder": 52
+  },
+  {
+   "stt": 291,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo lưu huyết mạch máu đáy mắt bằng doppler màu",
+   "insurancePrice": "344.200",
+   "price": "344.200",
+   "note": null,
+   "sortOrder": 53
+  },
+  {
+   "stt": 293,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ bền cơ sinh học giác mạc (Đo ORA)",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 54
+  },
+  {
+   "stt": 294,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ sâu tiền phòng",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 55
+  },
+  {
+   "stt": 295,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Test kéo cơ cưỡng bức",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 56
+  },
+  {
+   "stt": 296,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Test thử nhược cơ",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 57
+  },
+  {
+   "stt": 299,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Siêu âm + đo trục nhãn cầu",
+   "insurancePrice": "90.300",
+   "price": "90.300",
+   "note": null,
+   "sortOrder": 58
+  },
+  {
+   "stt": 307,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đếm tế bào nội mô giác mạc",
+   "insurancePrice": "145.500",
+   "price": "145.500",
+   "note": null,
+   "sortOrder": 59
+  },
+  {
+   "stt": 308,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo đường kính giác mạc",
+   "insurancePrice": "68.000",
+   "price": "68.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 60
+  },
+  {
+   "stt": 327,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo bản đồ giác mạc",
+   "insurancePrice": "145.500",
+   "price": "145.500",
+   "note": null,
+   "sortOrder": 61
+  },
+  {
+   "stt": 328,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo biên độ điều tiết",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 62
+  },
+  {
+   "stt": 329,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ lác",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 63
+  },
+  {
+   "stt": 330,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Xác định sơ đồ song thị",
+   "insurancePrice": "77.000",
+   "price": "77.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 64
+  },
+  {
+   "stt": 331,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo độ lồi mắt bằng thước đo Hertel",
+   "insurancePrice": "68.000",
+   "price": "68.000",
+   "note": null,
+   "sortOrder": 65
+  },
+  {
+   "stt": 332,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo đường kính giác mạc",
+   "insurancePrice": "68.000",
+   "price": "68.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 66
+  },
+  {
+   "stt": 333,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ giác mạc Javal",
+   "insurancePrice": "41.900",
+   "price": "41.900",
+   "note": null,
+   "sortOrder": 67
+  },
+  {
+   "stt": 334,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ máy",
+   "insurancePrice": "12.700",
+   "price": "12.700",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 68
+  },
+  {
+   "stt": 335,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo nhãn áp",
+   "insurancePrice": "31.600",
+   "price": "31.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 69
+  },
+  {
+   "stt": 336,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo thị trường trung tâm, tìm ám điểm",
+   "insurancePrice": "31.100",
+   "price": "31.100",
+   "note": null,
+   "sortOrder": 70
+  },
+  {
+   "stt": 337,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Nghiệm pháp phát hiện glocom",
+   "insurancePrice": "130.900",
+   "price": "130.900",
+   "note": null,
+   "sortOrder": 71
+  },
+  {
+   "stt": 338,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo sắc giác",
+   "insurancePrice": "80.600",
+   "price": "80.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 72
+  },
+  {
+   "stt": 339,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Đo khúc xạ khách quan (soi bóng đồng tử - Skiascope)",
+   "insurancePrice": "33.600",
+   "price": "33.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 73
+  },
+  {
+   "stt": 340,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Test thử cảm giác giác mạc",
+   "insurancePrice": "46.400",
+   "price": "46.400",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 74
+  },
+  {
+   "stt": 341,
+   "category": "Chẩn đoán hình ảnh & thăm dò",
+   "name": "Điện tim thường",
+   "insurancePrice": "39.900",
+   "price": "39.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 75
+  },
+  {
+   "stt": 34,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật lấy thể thủy tinh (trong bao, ngoài bao, phaco) đặt IOL trên mắt độc nhất, gần mù",
+   "insurancePrice": "2.752.600",
+   "price": "2.752.600",
+   "note": null,
+   "sortOrder": 76
+  },
+  {
+   "stt": 76,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật cố định IOL thì hai + cắt dịch kính",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 77
+  },
+  {
+   "stt": 155,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Mở bao sau đục bằng laser",
+   "insurancePrice": "289.500",
+   "price": "289.500",
+   "note": null,
+   "sortOrder": 78
+  },
+  {
+   "stt": 186,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Mở bao sau bằng phẫu thuật",
+   "insurancePrice": "680.200",
+   "price": "680.200",
+   "note": null,
+   "sortOrder": 79
+  },
+  {
+   "stt": 198,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Lấy thể thủy tinh sa, lệch trong bao phối hợp cắt dịch kính có hoặc không cố định IOL",
+   "insurancePrice": "1.344.100",
+   "price": "1.344.100",
+   "note": null,
+   "sortOrder": 80
+  },
+  {
+   "stt": 199,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật đặt thể thủy tinh nhân tạo (IOL) thì 2 (không cắt dịch kính)",
+   "insurancePrice": "2.020.300",
+   "price": "2.020.300",
+   "note": null,
+   "sortOrder": 81
+  },
+  {
+   "stt": 202,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật tán nhuyễn thể thủy tinh bằng siêu âm (Phaco) có hoặc không đặt IOL",
+   "insurancePrice": "2.752.600",
+   "price": "2.752.600",
+   "note": null,
+   "sortOrder": 82
+  },
+  {
+   "stt": 234,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật lấy thể thủy tinh ngoài bao có hoặc không đặt IOL",
+   "insurancePrice": "1.722.100",
+   "price": "1.722.100",
+   "note": null,
+   "sortOrder": 83
+  },
+  {
+   "stt": 277,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật chỉnh, xoay, lấy IOL có hoặc không cắt DK",
+   "insurancePrice": "1.260.100",
+   "price": "1.260.100",
+   "note": null,
+   "sortOrder": 84
+  },
+  {
+   "stt": 318,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Cắt thể thủy tinh, dịch kính có hoặc không cố định IOL",
+   "insurancePrice": "1.344.100",
+   "price": "1.344.100",
+   "note": null,
+   "sortOrder": 85
+  },
+  {
+   "stt": 321,
+   "category": "Đục thủy tinh thể (Phaco)",
+   "name": "Phẫu thuật thể thủy tinh bằng phaco và femtosecond có hoặc không đặt IOL",
+   "insurancePrice": "5.035.900",
+   "price": "5.035.900",
+   "note": null,
+   "sortOrder": 86
+  },
+  {
+   "stt": 22,
+   "category": "Phẫu thuật khúc xạ",
+   "name": "Đặt IOL trên mắt cận thị (Phakic)",
+   "insurancePrice": "2.020.300",
+   "price": "2.020.300",
+   "note": null,
+   "sortOrder": 87
+  },
+  {
+   "stt": 121,
+   "category": "Phẫu thuật khúc xạ",
+   "name": "Bóc biểu mô giác mạc (xâm nhập dưới vạt) sau phẫu thuật Lasik",
+   "insurancePrice": "860.200",
+   "price": "860.200",
+   "note": null,
+   "sortOrder": 88
+  },
+  {
+   "stt": 324,
+   "category": "Phẫu thuật khúc xạ",
+   "name": "Rạch giác mạc nan hoa (1 mắt)",
+   "insurancePrice": "680.100",
+   "price": "680.100",
+   "note": null,
+   "sortOrder": 89
+  },
+  {
+   "stt": 325,
+   "category": "Phẫu thuật khúc xạ",
+   "name": "Rạch giác mạc nan hoa (2 mắt)",
+   "insurancePrice": "833.300",
+   "price": "833.300",
+   "note": null,
+   "sortOrder": 90
+  },
+  {
+   "stt": 412,
+   "category": "Phẫu thuật khúc xạ",
+   "name": "Phẫu thuật điều trị tật khúc xạ bằng laser excimer (1 mắt)",
+   "insurancePrice": "4.252.400",
+   "price": "4.252.400",
+   "note": null,
+   "sortOrder": 91
+  },
+  {
+   "stt": 73,
+   "category": "Glôcôm",
+   "name": "Cắt bè sử dụng thuốc chống chuyển hóa hoặc chất antiVEGF",
+   "insurancePrice": "1.344.100",
+   "price": "1.344.100",
+   "note": null,
+   "sortOrder": 92
+  },
+  {
+   "stt": 78,
+   "category": "Glôcôm",
+   "name": "Điều trị glôcôm bằng laser mống mắt chu biên",
+   "insurancePrice": "342.400",
+   "price": "342.400",
+   "note": null,
+   "sortOrder": 93
+  },
+  {
+   "stt": 79,
+   "category": "Glôcôm",
+   "name": "Điều trị glôcôm bằng tạo hình mống mắt (Iridoplasty)",
+   "insurancePrice": "342.400",
+   "price": "342.400",
+   "note": null,
+   "sortOrder": 94
+  },
+  {
+   "stt": 91,
+   "category": "Glôcôm",
+   "name": "Điện đông thể mi",
+   "insurancePrice": "562.100",
+   "price": "562.100",
+   "note": null,
+   "sortOrder": 95
+  },
+  {
+   "stt": 120,
+   "category": "Glôcôm",
+   "name": "Sửa vá sẹo bọng bằng kết mạc, màng ối, củng mạc",
+   "insurancePrice": "1.130.200",
+   "price": "1.130.200",
+   "note": null,
+   "sortOrder": 96
+  },
+  {
+   "stt": 140,
+   "category": "Glôcôm",
+   "name": "Lạnh đông thể mi",
+   "insurancePrice": "1.809.000",
+   "price": "1.809.000",
+   "note": null,
+   "sortOrder": 97
+  },
+  {
+   "stt": 146,
+   "category": "Glôcôm",
+   "name": "Sửa sẹo bọng bằng kim",
+   "insurancePrice": "99.400",
+   "price": "99.400",
+   "note": null,
+   "sortOrder": 98
+  },
+  {
+   "stt": 187,
+   "category": "Glôcôm",
+   "name": "Cắt bè củng giác mạc (Trabeculectomy)",
+   "insurancePrice": "1.202.600",
+   "price": "1.202.600",
+   "note": null,
+   "sortOrder": 99
+  },
+  {
+   "stt": 188,
+   "category": "Glôcôm",
+   "name": "Cắt củng mạc sâu có hoặc không áp thuốc chống chuyển hóa",
+   "insurancePrice": "1.202.600",
+   "price": "1.202.600",
+   "note": null,
+   "sortOrder": 100
+  },
+  {
+   "stt": 189,
+   "category": "Glôcôm",
+   "name": "Mở bè có hoặc không cắt bè",
+   "insurancePrice": "1.202.600",
+   "price": "1.202.600",
+   "note": null,
+   "sortOrder": 101
+  },
+  {
+   "stt": 190,
+   "category": "Glôcôm",
+   "name": "Phẫu thuật glôcôm ác tính trên mắt độc nhất, gần mù",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": null,
+   "sortOrder": 102
+  },
+  {
+   "stt": 197,
+   "category": "Glôcôm",
+   "name": "Phẫu thuật cắt mống mắt chu biên",
+   "insurancePrice": "570.300",
+   "price": "570.300",
+   "note": null,
+   "sortOrder": 103
+  },
+  {
+   "stt": 200,
+   "category": "Glôcôm",
+   "name": "Đặt van dẫn lưu tiền phòng điều trị glôcôm",
+   "insurancePrice": "1.644.100",
+   "price": "1.644.100",
+   "note": null,
+   "sortOrder": 104
+  },
+  {
+   "stt": 247,
+   "category": "Glôcôm",
+   "name": "Mở góc tiền phòng",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 105
+  },
+  {
+   "stt": 265,
+   "category": "Glôcôm",
+   "name": "Rút van dẫn lưu, ống silicon tiền phòng",
+   "insurancePrice": "913.600",
+   "price": "913.600",
+   "note": null,
+   "sortOrder": 106
+  },
+  {
+   "stt": 306,
+   "category": "Glôcôm",
+   "name": "Điều trị glôcôm bằng tạo hình vùng bè (Trabeculoplasty)",
+   "insurancePrice": "342.400",
+   "price": "342.400",
+   "note": null,
+   "sortOrder": 107
+  },
+  {
+   "stt": 319,
+   "category": "Glôcôm",
+   "name": "Đặt ống Silicon tiền phòng điều trị glôcôm",
+   "insurancePrice": "1.644.100",
+   "price": "1.644.100",
+   "note": null,
+   "sortOrder": 108
+  },
+  {
+   "stt": 320,
+   "category": "Glôcôm",
+   "name": "Đặt ống tiền phòng điều trị glôcôm",
+   "insurancePrice": "1.644.100",
+   "price": "1.644.100",
+   "note": null,
+   "sortOrder": 109
+  },
+  {
+   "stt": 322,
+   "category": "Glôcôm",
+   "name": "Điều trị glôcôm bằng quang đông thể mi",
+   "insurancePrice": "331.900",
+   "price": "331.900",
+   "note": null,
+   "sortOrder": 110
+  },
+  {
+   "stt": 24,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật mổ bong võng mạc trên mắt độc nhất, gần mù",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": null,
+   "sortOrder": 111
+  },
+  {
+   "stt": 25,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính + laser nội nhãn",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 112
+  },
+  {
+   "stt": 26,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính + laser nội nhãn + lấy dị vật nội nhãn",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 113
+  },
+  {
+   "stt": 27,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị viêm mủ nội nhãn",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 114
+  },
+  {
+   "stt": 28,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị tổ chức hóa dịch kính",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 115
+  },
+  {
+   "stt": 29,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị tồn lưu dịch kính nguyên thủy",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 116
+  },
+  {
+   "stt": 30,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính, bóc màng trước võng mạc",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 117
+  },
+  {
+   "stt": 31,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính, khí nội nhãn điều trị lỗ hoàng điểm",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 118
+  },
+  {
+   "stt": 32,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật bong võng mạc tái phát",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": null,
+   "sortOrder": 119
+  },
+  {
+   "stt": 33,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật bong võng mạc, cắt dịch kính ± laser nội nhãn ± dầu/khí nội nhãn",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": null,
+   "sortOrder": 120
+  },
+  {
+   "stt": 75,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Lấy dị vật nội nhãn bằng nam châm",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 121
+  },
+  {
+   "stt": 86,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật điều trị bong hắc mạc: Chọc hút dịch bong dưới hắc mạc, bơm hơi tiền phòng",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 122
+  },
+  {
+   "stt": 96,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Điều trị một số bệnh võng mạc bằng laser (bệnh võng mạc tiểu đường, cao huyết áp, trẻ đẻ non…)",
+   "insurancePrice": "438.500",
+   "price": "438.500",
+   "note": null,
+   "sortOrder": 123
+  },
+  {
+   "stt": 97,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Laser điều trị U nguyên bào võng mạc",
+   "insurancePrice": "438.500",
+   "price": "438.500",
+   "note": null,
+   "sortOrder": 124
+  },
+  {
+   "stt": 138,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Lạnh đông điều trị ung thư võng mạc",
+   "insurancePrice": "1.809.000",
+   "price": "1.809.000",
+   "note": null,
+   "sortOrder": 125
+  },
+  {
+   "stt": 139,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Lạnh đông đơn thuần phòng bong võng mạc",
+   "insurancePrice": "1.809.000",
+   "price": "1.809.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 126
+  },
+  {
+   "stt": 177,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Múc nội nhãn",
+   "insurancePrice": "599.800",
+   "price": "599.800",
+   "note": null,
+   "sortOrder": 127
+  },
+  {
+   "stt": 185,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật bong võng mạc theo phương pháp kinh điển",
+   "insurancePrice": "2.409.900",
+   "price": "2.409.900",
+   "note": null,
+   "sortOrder": 128
+  },
+  {
+   "stt": 201,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật bệnh võng mạc trẻ đẻ non",
+   "insurancePrice": "2.077.900",
+   "price": "2.077.900",
+   "note": null,
+   "sortOrder": 129
+  },
+  {
+   "stt": 233,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Tháo đai độn củng mạc",
+   "insurancePrice": "1.746.900",
+   "price": "1.746.900",
+   "note": null,
+   "sortOrder": 130
+  },
+  {
+   "stt": 262,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Tiêm nội nhãn",
+   "insurancePrice": "245.100",
+   "price": "245.100",
+   "note": null,
+   "sortOrder": 131
+  },
+  {
+   "stt": 266,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Tháo dầu Silicon nội nhãn",
+   "insurancePrice": "913.600",
+   "price": "913.600",
+   "note": null,
+   "sortOrder": 132
+  },
+  {
+   "stt": 270,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Tiêm cạnh nhãn cầu",
+   "insurancePrice": "55.000",
+   "price": "55.000",
+   "note": null,
+   "sortOrder": 133
+  },
+  {
+   "stt": 271,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Tiêm hậu nhãn cầu",
+   "insurancePrice": "55.000",
+   "price": "55.000",
+   "note": null,
+   "sortOrder": 134
+  },
+  {
+   "stt": 286,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Chọc hút dịch kính, tiền phòng lấy bệnh phẩm",
+   "insurancePrice": "534.500",
+   "price": "534.500",
+   "note": null,
+   "sortOrder": 135
+  },
+  {
+   "stt": 300,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính + laser nội nhãn + lấy dị vật nội nhãn",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 136
+  },
+  {
+   "stt": 301,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính có hoặc không laser nội nhãn",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 137
+  },
+  {
+   "stt": 302,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị tổ chức hóa dịch kính",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 138
+  },
+  {
+   "stt": 303,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị tồn lưu dịch kính nguyên thủy",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 139
+  },
+  {
+   "stt": 304,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính điều trị viêm mủ nội nhãn",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 140
+  },
+  {
+   "stt": 305,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính lấy ấu trùng sán trong buồng dịch kính",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 141
+  },
+  {
+   "stt": 311,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Lạnh đông đơn thuần phòng bong võng mạc",
+   "insurancePrice": "1.809.000",
+   "price": "1.809.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 142
+  },
+  {
+   "stt": 315,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính, bóc màng trước võng mạc",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 143
+  },
+  {
+   "stt": 316,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Cắt dịch kính, khí nội nhãn điều trị lỗ hoàng điểm",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 144
+  },
+  {
+   "stt": 317,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Phẫu thuật bong võng mạc, cắt dịch kính có hoặc không laser nội nhãn, có hoặc không dùng dầu/khí nội nhãn",
+   "insurancePrice": "3.206.300",
+   "price": "3.206.300",
+   "note": null,
+   "sortOrder": 145
+  },
+  {
+   "stt": 323,
+   "category": "Dịch kính – Võng mạc",
+   "name": "Bơm dầu silicon, khí bổ sung sau PT cắt dịch kính điều trị bong võng mạc",
+   "insurancePrice": "913.600",
+   "price": "913.600",
+   "note": null,
+   "sortOrder": 146
+  },
+  {
+   "stt": 37,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u kết mạc không vá",
+   "insurancePrice": "768.600",
+   "price": "768.600",
+   "note": null,
+   "sortOrder": 147
+  },
+  {
+   "stt": 38,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u kết mạc, giác mạc có ghép kết mạc, màng ối hoặc giác mạc",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 148
+  },
+  {
+   "stt": 40,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u mi cả bề dày ghép sụn kết mạc và chuyển vạt da",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 149
+  },
+  {
+   "stt": 59,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt chỉ khâu giác mạc",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 150
+  },
+  {
+   "stt": 60,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt chỉ khâu kết mạc",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 151
+  },
+  {
+   "stt": 80,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u kết mạc có hoặc không u giác mạc không ghép",
+   "insurancePrice": "1.252.600",
+   "price": "1.252.600",
+   "note": null,
+   "sortOrder": 152
+  },
+  {
+   "stt": 81,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u kết mạc, giác mạc có ghép kết mạc, màng ối hoặc giác mạc",
+   "insurancePrice": "1.252.600",
+   "price": "1.252.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 153
+  },
+  {
+   "stt": 83,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Trích chắp, lẹo, nang lông mi; trích áp xe mi, kết mạc",
+   "insurancePrice": "85.500",
+   "price": "85.500",
+   "note": null,
+   "sortOrder": 154
+  },
+  {
+   "stt": 113,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép giác mạc lớp",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 155
+  },
+  {
+   "stt": 114,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép giác mạc nhân tạo",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 156
+  },
+  {
+   "stt": 115,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép giác mạc tự thân",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 157
+  },
+  {
+   "stt": 116,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép nội mô giác mạc",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 158
+  },
+  {
+   "stt": 117,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật ghép giác mạc lần hai trở lên",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 159
+  },
+  {
+   "stt": 118,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép màng ối, kết mạc điều trị loét, thủng giác mạc",
+   "insurancePrice": "1.430.500",
+   "price": "1.430.500",
+   "note": null,
+   "sortOrder": 160
+  },
+  {
+   "stt": 119,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật ghép màng sinh học bề mặt nhãn cầu",
+   "insurancePrice": "1.130.200",
+   "price": "1.130.200",
+   "note": null,
+   "sortOrder": 161
+  },
+  {
+   "stt": 122,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Gọt giác mạc đơn thuần",
+   "insurancePrice": "860.200",
+   "price": "860.200",
+   "note": null,
+   "sortOrder": 162
+  },
+  {
+   "stt": 124,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu củng mạc",
+   "insurancePrice": "849.600",
+   "price": "849.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 163
+  },
+  {
+   "stt": 125,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu củng mạc",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 164
+  },
+  {
+   "stt": 126,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Thăm dò, khâu vết thương củng mạc",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 165
+  },
+  {
+   "stt": 130,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu kết mạc",
+   "insurancePrice": "897.100",
+   "price": "897.100",
+   "note": null,
+   "sortOrder": 166
+  },
+  {
+   "stt": 131,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu giác mạc",
+   "insurancePrice": "799.600",
+   "price": "799.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 167
+  },
+  {
+   "stt": 132,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu lại mép mổ giác mạc, củng mạc",
+   "insurancePrice": "799.600",
+   "price": "799.600",
+   "note": null,
+   "sortOrder": 168
+  },
+  {
+   "stt": 133,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu giác mạc",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 169
+  },
+  {
+   "stt": 141,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Laser điều trị u máu mi, kết mạc, hốc mắt",
+   "insurancePrice": "1.529.000",
+   "price": "1.529.000",
+   "note": null,
+   "sortOrder": 170
+  },
+  {
+   "stt": 142,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy dị vật giác mạc sâu",
+   "insurancePrice": "727.900",
+   "price": "727.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 171
+  },
+  {
+   "stt": 144,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Bóc sợi giác mạc",
+   "insurancePrice": "99.400",
+   "price": "99.400",
+   "note": null,
+   "sortOrder": 172
+  },
+  {
+   "stt": 145,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy dị vật giác mạc sâu",
+   "insurancePrice": "99.400",
+   "price": "99.400",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 173
+  },
+  {
+   "stt": 147,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy dị vật giác mạc sâu",
+   "insurancePrice": "359.500",
+   "price": "359.500",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 174
+  },
+  {
+   "stt": 149,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy dị vật kết mạc",
+   "insurancePrice": "71.500",
+   "price": "71.500",
+   "note": null,
+   "sortOrder": 175
+  },
+  {
+   "stt": 152,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy calci kết mạc",
+   "insurancePrice": "40.900",
+   "price": "40.900",
+   "note": null,
+   "sortOrder": 176
+  },
+  {
+   "stt": 153,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Áp lạnh điều trị u máu mi, kết mạc, hốc mắt",
+   "insurancePrice": "66.800",
+   "price": "66.800",
+   "note": null,
+   "sortOrder": 177
+  },
+  {
+   "stt": 154,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Áp tia beta điều trị các bệnh lý kết mạc",
+   "insurancePrice": "66.800",
+   "price": "66.800",
+   "note": null,
+   "sortOrder": 178
+  },
+  {
+   "stt": 193,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc rời tự thân, màng ối...) có hoặc không áp thuốc chống chuyển hóa",
+   "insurancePrice": "1.632.200",
+   "price": "1.632.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 179
+  },
+  {
+   "stt": 194,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc tự thân, màng ối...) có hoặc không sử dụng keo dán sinh học",
+   "insurancePrice": "1.632.200",
+   "price": "1.632.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 180
+  },
+  {
+   "stt": 195,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc rời tự thân, màng ối...) có hoặc không áp thuốc chống chuyển hóa",
+   "insurancePrice": "1.083.600",
+   "price": "1.083.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 181
+  },
+  {
+   "stt": 196,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc tự thân, màng ối...) có hoặc không sử dụng keo dán sinh học",
+   "insurancePrice": "1.083.600",
+   "price": "1.083.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 182
+  },
+  {
+   "stt": 214,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng đơn thuần",
+   "insurancePrice": "960.200",
+   "price": "960.200",
+   "note": null,
+   "sortOrder": 183
+  },
+  {
+   "stt": 215,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc rời tự thân, màng ối...) có hoặc không áp thuốc chống chuyển hóa",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 184
+  },
+  {
+   "stt": 216,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Phẫu thuật mộng có ghép (kết mạc tự thân, màng ối...) có hoặc không sử dụng keo dán sinh học",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 185
+  },
+  {
+   "stt": 236,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Cắt u mi cả bề dày ghép sụn kết mạc và chuyển vạt da",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 186
+  },
+  {
+   "stt": 246,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Khâu phủ kết mạc",
+   "insurancePrice": "698.800",
+   "price": "698.800",
+   "note": null,
+   "sortOrder": 187
+  },
+  {
+   "stt": 253,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Sinh thiết tổ chức kết mạc",
+   "insurancePrice": "151.000",
+   "price": "151.000",
+   "note": null,
+   "sortOrder": 188
+  },
+  {
+   "stt": 260,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép củng mạc",
+   "insurancePrice": "2.561.900",
+   "price": "2.561.900",
+   "note": null,
+   "sortOrder": 189
+  },
+  {
+   "stt": 261,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Tách dính mi cầu, ghép kết mạc rời hoặc màng ối",
+   "insurancePrice": "2.561.900",
+   "price": "2.561.900",
+   "note": null,
+   "sortOrder": 190
+  },
+  {
+   "stt": 269,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Tiêm dưới kết mạc",
+   "insurancePrice": "55.000",
+   "price": "55.000",
+   "note": null,
+   "sortOrder": 191
+  },
+  {
+   "stt": 272,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Tiêm nhu mô giác mạc",
+   "insurancePrice": "55.000",
+   "price": "55.000",
+   "note": null,
+   "sortOrder": 192
+  },
+  {
+   "stt": 309,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép giác mạc có vành củng mạc",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 193
+  },
+  {
+   "stt": 310,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Ghép giác mạc xuyên",
+   "insurancePrice": "3.577.900",
+   "price": "3.577.900",
+   "note": null,
+   "sortOrder": 194
+  },
+  {
+   "stt": 312,
+   "category": "Giác mạc – Kết mạc – Củng mạc",
+   "name": "Lấy dị vật trong củng mạc",
+   "insurancePrice": "1.013.600",
+   "price": "1.013.600",
+   "note": null,
+   "sortOrder": 195
+  },
+  {
+   "stt": 61,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Cắt chỉ sau phẫu thuật lác",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 196
+  },
+  {
+   "stt": 62,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Cắt chỉ sau phẫu thuật lác, sụp mi",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 197
+  },
+  {
+   "stt": 95,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Tập nhược thị",
+   "insurancePrice": "43.600",
+   "price": "43.600",
+   "note": null,
+   "sortOrder": 198
+  },
+  {
+   "stt": 208,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật lác có chỉnh chỉ",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 199
+  },
+  {
+   "stt": 209,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật lác thông thường",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 200
+  },
+  {
+   "stt": 210,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật lác có chỉnh chỉ",
+   "insurancePrice": "1.220.300",
+   "price": "1.220.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 201
+  },
+  {
+   "stt": 211,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật lác thông thường",
+   "insurancePrice": "1.220.300",
+   "price": "1.220.300",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 202
+  },
+  {
+   "stt": 212,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật đính chỗ bám cơ vào dây chằng mi điều trị lác liệt",
+   "insurancePrice": "913.600",
+   "price": "913.600",
+   "note": null,
+   "sortOrder": 203
+  },
+  {
+   "stt": 213,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Phẫu thuật lác phức tạp (di thực cơ, phẫu thuật cơ chéo, Faden…)",
+   "insurancePrice": "913.600",
+   "price": "913.600",
+   "note": null,
+   "sortOrder": 204
+  },
+  {
+   "stt": 283,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Chỉnh chỉ sau mổ lác",
+   "insurancePrice": "620.000",
+   "price": "620.000",
+   "note": null,
+   "sortOrder": 205
+  },
+  {
+   "stt": 285,
+   "category": "Lác (lé) – Nhược thị",
+   "name": "Sửa sẹo sau mổ lác",
+   "insurancePrice": "620.000",
+   "price": "620.000",
+   "note": null,
+   "sortOrder": 206
+  },
+  {
+   "stt": 17,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật chuyển gân điều trị hở mi",
+   "insurancePrice": "2.572.800",
+   "price": "2.572.800",
+   "note": null,
+   "sortOrder": 207
+  },
+  {
+   "stt": 18,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu da mi",
+   "insurancePrice": "1.595.200",
+   "price": "1.595.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 208
+  },
+  {
+   "stt": 19,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu da mi",
+   "insurancePrice": "897.100",
+   "price": "897.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 209
+  },
+  {
+   "stt": 20,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm bằng ghép niêm mạc môi (Sapejko)",
+   "insurancePrice": "2.068.800",
+   "price": "2.068.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 210
+  },
+  {
+   "stt": 21,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm bằng ghép niêm mạc môi (Sapejko)",
+   "insurancePrice": "1.387.000",
+   "price": "1.387.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 211
+  },
+  {
+   "stt": 23,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tái tạo cùng đồ",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 212
+  },
+  {
+   "stt": 35,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt ung thư da vùng mi mắt dưới và tạo hình",
+   "insurancePrice": "4.421.700",
+   "price": "4.421.700",
+   "note": null,
+   "sortOrder": 213
+  },
+  {
+   "stt": 36,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt ung thư da vùng mi mắt trên và tạo hình",
+   "insurancePrice": "4.421.700",
+   "price": "4.421.700",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 214
+  },
+  {
+   "stt": 39,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u da mi có trượt lông mi, vạt da, hay ghép da",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 215
+  },
+  {
+   "stt": 41,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u mi cả bề dày không vá",
+   "insurancePrice": "812.100",
+   "price": "812.100",
+   "note": null,
+   "sortOrder": 216
+  },
+  {
+   "stt": 42,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u hốc mắt không mở xương hốc mắt",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 217
+  },
+  {
+   "stt": 44,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nạo vét tổ chức hốc mắt",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 218
+  },
+  {
+   "stt": 45,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt các loại u vùng mặt có đường kính dưới 5 cm",
+   "insurancePrice": "771.000",
+   "price": "771.000",
+   "note": null,
+   "sortOrder": 219
+  },
+  {
+   "stt": 58,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt chỉ khâu da mi đơn giản",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 220
+  },
+  {
+   "stt": 63,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt chỉ sau phẫu thuật sụp mi",
+   "insurancePrice": "40.300",
+   "price": "40.300",
+   "note": null,
+   "sortOrder": 221
+  },
+  {
+   "stt": 66,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật chuyển gân điều trị mắt hở mi (2 mắt)",
+   "insurancePrice": "2.572.800",
+   "price": "2.572.800",
+   "note": null,
+   "sortOrder": 222
+  },
+  {
+   "stt": 67,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u hốc mắt bằng đường xuyên sọ",
+   "insurancePrice": "6.111.300",
+   "price": "6.111.300",
+   "note": null,
+   "sortOrder": 223
+  },
+  {
+   "stt": 68,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Rạch áp xe mi",
+   "insurancePrice": "218.500",
+   "price": "218.500",
+   "note": null,
+   "sortOrder": 224
+  },
+  {
+   "stt": 69,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Rạch áp xe túi lệ",
+   "insurancePrice": "218.500",
+   "price": "218.500",
+   "note": null,
+   "sortOrder": 225
+  },
+  {
+   "stt": 71,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Ghép da hay vạt da điều trị hở mi do sẹo",
+   "insurancePrice": "3.044.900",
+   "price": "3.044.900",
+   "note": null,
+   "sortOrder": 226
+  },
+  {
+   "stt": 72,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Bơm rửa lệ đạo",
+   "insurancePrice": "41.200",
+   "price": "41.200",
+   "note": null,
+   "sortOrder": 227
+  },
+  {
+   "stt": 74,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt bỏ túi lệ",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": null,
+   "sortOrder": 228
+  },
+  {
+   "stt": 82,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt bỏ chắp có bọc",
+   "insurancePrice": "85.500",
+   "price": "85.500",
+   "note": null,
+   "sortOrder": 229
+  },
+  {
+   "stt": 84,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Trích dẫn lưu túi lệ",
+   "insurancePrice": "85.500",
+   "price": "85.500",
+   "note": null,
+   "sortOrder": 230
+  },
+  {
+   "stt": 112,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đốt lông xiêu, nhổ lông siêu",
+   "insurancePrice": "53.600",
+   "price": "53.600",
+   "note": null,
+   "sortOrder": 231
+  },
+  {
+   "stt": 123,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu cò mi, tháo cò",
+   "insurancePrice": "452.400",
+   "price": "452.400",
+   "note": null,
+   "sortOrder": 232
+  },
+  {
+   "stt": 127,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đóng lỗ rò đường lệ",
+   "insurancePrice": "1.595.200",
+   "price": "1.595.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 233
+  },
+  {
+   "stt": 128,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đóng lỗ rò đường lệ",
+   "insurancePrice": "897.100",
+   "price": "897.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 234
+  },
+  {
+   "stt": 129,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu da mi đơn giản",
+   "insurancePrice": "897.100",
+   "price": "897.100",
+   "note": null,
+   "sortOrder": 235
+  },
+  {
+   "stt": 134,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu phục hồi bờ mi",
+   "insurancePrice": "813.600",
+   "price": "813.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 236
+  },
+  {
+   "stt": 136,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt bỏ nhãn cầu có hoặc không cắt thị thần kinh dài",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": null,
+   "sortOrder": 237
+  },
+  {
+   "stt": 148,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Lấy dị vật hốc mắt",
+   "insurancePrice": "1.013.600",
+   "price": "1.013.600",
+   "note": null,
+   "sortOrder": 238
+  },
+  {
+   "stt": 156,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "1.351.400",
+   "price": "1.351.400",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 239
+  },
+  {
+   "stt": 157,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "1.351.400",
+   "price": "1.351.400",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 240
+  },
+  {
+   "stt": 158,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Mổ quặm bẩm sinh",
+   "insurancePrice": "698.800",
+   "price": "698.800",
+   "note": null,
+   "sortOrder": 241
+  },
+  {
+   "stt": 159,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "698.800",
+   "price": "698.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 242
+  },
+  {
+   "stt": 160,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm bằng ghép niêm mạc môi",
+   "insurancePrice": "698.800",
+   "price": "698.800",
+   "note": null,
+   "sortOrder": 243
+  },
+  {
+   "stt": 161,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "698.800",
+   "price": "698.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 244
+  },
+  {
+   "stt": 162,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "1.572.200",
+   "price": "1.572.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 245
+  },
+  {
+   "stt": 163,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "1.572.200",
+   "price": "1.572.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 246
+  },
+  {
+   "stt": 164,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "935.200",
+   "price": "935.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 247
+  },
+  {
+   "stt": 165,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "935.200",
+   "price": "935.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 248
+  },
+  {
+   "stt": 166,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "1.188.600",
+   "price": "1.188.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 249
+  },
+  {
+   "stt": 167,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "1.188.600",
+   "price": "1.188.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 250
+  },
+  {
+   "stt": 168,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "1.833.000",
+   "price": "1.833.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 251
+  },
+  {
+   "stt": 169,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "1.833.000",
+   "price": "1.833.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 252
+  },
+  {
+   "stt": 170,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "2.068.800",
+   "price": "2.068.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 253
+  },
+  {
+   "stt": 171,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "2.068.800",
+   "price": "2.068.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 254
+  },
+  {
+   "stt": 172,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm",
+   "insurancePrice": "1.387.000",
+   "price": "1.387.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 255
+  },
+  {
+   "stt": 173,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật quặm tái phát",
+   "insurancePrice": "1.387.000",
+   "price": "1.387.000",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 256
+  },
+  {
+   "stt": 178,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nặn tuyến bờ mi, đánh bờ mi",
+   "insurancePrice": "40.900",
+   "price": "40.900",
+   "note": null,
+   "sortOrder": 257
+  },
+  {
+   "stt": 179,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đặt bản Silicon điều trị lõm mắt",
+   "insurancePrice": "2.925.900",
+   "price": "2.925.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 258
+  },
+  {
+   "stt": 180,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đặt sụn sườn vào dưới màng xương điều trị lõm mắt",
+   "insurancePrice": "2.925.900",
+   "price": "2.925.900",
+   "note": null,
+   "sortOrder": 259
+  },
+  {
+   "stt": 181,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nâng sàn hốc mắt",
+   "insurancePrice": "2.925.900",
+   "price": "2.925.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 260
+  },
+  {
+   "stt": 184,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nối thông lệ mũi nội soi",
+   "insurancePrice": "1.130.200",
+   "price": "1.130.200",
+   "note": null,
+   "sortOrder": 261
+  },
+  {
+   "stt": 203,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Điều trị di lệch góc mắt",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": null,
+   "sortOrder": 262
+  },
+  {
+   "stt": 204,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật Epicanthus",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": null,
+   "sortOrder": 263
+  },
+  {
+   "stt": 205,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật hẹp khe mi",
+   "insurancePrice": "763.600",
+   "price": "763.600",
+   "note": null,
+   "sortOrder": 264
+  },
+  {
+   "stt": 206,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật làm hẹp khe mi, rút ngắn dây chằng mi ngoài, mi trong điều trị hở mi do liệt dây VII",
+   "insurancePrice": "763.600",
+   "price": "763.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 265
+  },
+  {
+   "stt": 207,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật mở rộng khe mi",
+   "insurancePrice": "763.600",
+   "price": "763.600",
+   "note": null,
+   "sortOrder": 266
+  },
+  {
+   "stt": 218,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Kéo dài cân cơ nâng mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 267
+  },
+  {
+   "stt": 219,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật cắt cơ Muller có hoặc không cắt cân cơ nâng mi điều trị hở mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 268
+  },
+  {
+   "stt": 220,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật gấp cân cơ nâng mi trên điều trị sụp mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 269
+  },
+  {
+   "stt": 221,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật rút ngắn cơ nâng mi trên điều trị sụp mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 270
+  },
+  {
+   "stt": 222,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật treo mi - cơ trán (bằng Silicon, cân cơ đùi…) điều trị sụp mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 271
+  },
+  {
+   "stt": 223,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tái tạo lệ quản kết hợp khâu mi",
+   "insurancePrice": "1.644.100",
+   "price": "1.644.100",
+   "note": null,
+   "sortOrder": 272
+  },
+  {
+   "stt": 224,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tạo hình đường lệ có hoặc không điểm lệ",
+   "insurancePrice": "1.644.100",
+   "price": "1.644.100",
+   "note": null,
+   "sortOrder": 273
+  },
+  {
+   "stt": 225,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cố định bao Tenon tạo cùng đồ dưới",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 274
+  },
+  {
+   "stt": 226,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cố định màng xương tạo cùng đồ",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 275
+  },
+  {
+   "stt": 227,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo cùng đồ để lắp mắt giả",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 276
+  },
+  {
+   "stt": 228,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Vá da, niêm mạc tạo cùng đồ có hoặc không tách dính mi cầu",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 277
+  },
+  {
+   "stt": 229,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo hình hạ thấp hay nâng nếp mi",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 278
+  },
+  {
+   "stt": 230,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo hình nếp mi",
+   "insurancePrice": "930.200",
+   "price": "930.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 279
+  },
+  {
+   "stt": 231,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo hình hạ thấp hay nâng nếp mi",
+   "insurancePrice": "1.213.600",
+   "price": "1.213.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 280
+  },
+  {
+   "stt": 232,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo hình nếp mi",
+   "insurancePrice": "1.213.600",
+   "price": "1.213.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 281
+  },
+  {
+   "stt": 235,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u da mi có trượt lông mi, vạt da, hay ghép da",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 282
+  },
+  {
+   "stt": 237,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt ung thư da vùng mi mắt trên và tạo hình",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 283
+  },
+  {
+   "stt": 238,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cố định tuyến lệ chính điều trị sa tuyến lệ chính",
+   "insurancePrice": "813.600",
+   "price": "813.600",
+   "note": null,
+   "sortOrder": 284
+  },
+  {
+   "stt": 239,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u da mi không ghép",
+   "insurancePrice": "812.100",
+   "price": "812.100",
+   "note": null,
+   "sortOrder": 285
+  },
+  {
+   "stt": 240,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u mi cả bề dày không ghép",
+   "insurancePrice": "812.100",
+   "price": "812.100",
+   "note": null,
+   "sortOrder": 286
+  },
+  {
+   "stt": 241,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u hốc mắt có hoặc không mở xương hốc mắt",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 287
+  },
+  {
+   "stt": 242,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nạo vét tổ chức hốc mắt",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 288
+  },
+  {
+   "stt": 243,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật điều trị lật mi dưới có hoặc không ghép",
+   "insurancePrice": "1.194.100",
+   "price": "1.194.100",
+   "note": null,
+   "sortOrder": 289
+  },
+  {
+   "stt": 244,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật phục hồi trễ mi dưới",
+   "insurancePrice": "1.194.100",
+   "price": "1.194.100",
+   "note": null,
+   "sortOrder": 290
+  },
+  {
+   "stt": 245,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Vá da tạo hình mi",
+   "insurancePrice": "1.194.100",
+   "price": "1.194.100",
+   "note": null,
+   "sortOrder": 291
+  },
+  {
+   "stt": 248,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Rửa cùng đồ",
+   "insurancePrice": "48.300",
+   "price": "48.300",
+   "note": null,
+   "sortOrder": 292
+  },
+  {
+   "stt": 252,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Sinh thiết tổ chức hốc mắt",
+   "insurancePrice": "151.000",
+   "price": "151.000",
+   "note": null,
+   "sortOrder": 293
+  },
+  {
+   "stt": 254,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Sinh thiết tổ chức mi",
+   "insurancePrice": "151.000",
+   "price": "151.000",
+   "note": null,
+   "sortOrder": 294
+  },
+  {
+   "stt": 267,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Bơm thông lệ đạo",
+   "insurancePrice": "105.800",
+   "price": "105.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 295
+  },
+  {
+   "stt": 268,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Bơm thông lệ đạo",
+   "insurancePrice": "65.100",
+   "price": "65.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 296
+  },
+  {
+   "stt": 273,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Vá vỡ xương hốc mắt (thành dưới, thành trong có hoặc không dùng sụn sườn)",
+   "insurancePrice": "3.321.900",
+   "price": "3.321.900",
+   "note": null,
+   "sortOrder": 297
+  },
+  {
+   "stt": 275,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Cắt u mi cả bề dày ghép niêm mạc cứng của vòm miệng và chuyển vạt da",
+   "insurancePrice": "2.185.500",
+   "price": "2.185.500",
+   "note": null,
+   "sortOrder": 298
+  },
+  {
+   "stt": 278,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật hạ mi trên (chỉnh chỉ, lùi cơ nâng mi …)",
+   "insurancePrice": "1.260.100",
+   "price": "1.260.100",
+   "note": null,
+   "sortOrder": 299
+  },
+  {
+   "stt": 280,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Di thực hàng lông mi",
+   "insurancePrice": "891.500",
+   "price": "891.500",
+   "note": null,
+   "sortOrder": 300
+  },
+  {
+   "stt": 281,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Ghép mỡ điều trị lõm mắt",
+   "insurancePrice": "891.500",
+   "price": "891.500",
+   "note": null,
+   "sortOrder": 301
+  },
+  {
+   "stt": 282,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Lùi cơ nâng mi",
+   "insurancePrice": "891.500",
+   "price": "891.500",
+   "note": null,
+   "sortOrder": 302
+  },
+  {
+   "stt": 284,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật mở rộng điểm lệ",
+   "insurancePrice": "620.000",
+   "price": "620.000",
+   "note": null,
+   "sortOrder": 303
+  },
+  {
+   "stt": 292,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Điều trị u máu bằng hóa chất",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 304
+  },
+  {
+   "stt": 297,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tiêm cortison điều trị u máu",
+   "insurancePrice": "197.200",
+   "price": "197.200",
+   "note": null,
+   "sortOrder": 305
+  },
+  {
+   "stt": 298,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật giảm áp hốc mắt (phá thành hốc mắt, mở rộng lỗ thị giác...)",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": null,
+   "sortOrder": 306
+  },
+  {
+   "stt": 313,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nối thông lệ mũi có hoặc không đặt ống Silicon có hoặc không áp thuốc chống chuyển hóa",
+   "insurancePrice": "1.130.200",
+   "price": "1.130.200",
+   "note": null,
+   "sortOrder": 307
+  },
+  {
+   "stt": 314,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật đặt ống silicon lệ quản - ống lệ mũi",
+   "insurancePrice": "1.130.200",
+   "price": "1.130.200",
+   "note": null,
+   "sortOrder": 308
+  },
+  {
+   "stt": 388,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật làm hẹp khe mi, rút ngắn dây chằng mi ngoài, mi trong điều trị hở mi do liệt dây VII",
+   "insurancePrice": "2.572.800",
+   "price": "2.572.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 309
+  },
+  {
+   "stt": 389,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật cắt bỏ khối u da ác tính mi mắt",
+   "insurancePrice": "4.421.700",
+   "price": "4.421.700",
+   "note": null,
+   "sortOrder": 310
+  },
+  {
+   "stt": 390,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo vạt da tại chỗ cho vết thương khuyết toàn bộ mi trên",
+   "insurancePrice": "3.720.600",
+   "price": "3.720.600",
+   "note": null,
+   "sortOrder": 311
+  },
+  {
+   "stt": 391,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tái tạo cung mày bằng vạt có cuống mạch nuôi",
+   "insurancePrice": "3.720.600",
+   "price": "3.720.600",
+   "note": null,
+   "sortOrder": 312
+  },
+  {
+   "stt": 392,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật ghép da tự thân vùng mi mắt",
+   "insurancePrice": "3.044.900",
+   "price": "3.044.900",
+   "note": null,
+   "sortOrder": 313
+  },
+  {
+   "stt": 393,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tạo hình hốc mắt trong tật không nhãn cầu để lắp mắt giả",
+   "insurancePrice": "3.433.300",
+   "price": "3.433.300",
+   "note": null,
+   "sortOrder": 314
+  },
+  {
+   "stt": 394,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Đặt bản Silicon điều trị lõm mắt",
+   "insurancePrice": "2.396.200",
+   "price": "2.396.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 315
+  },
+  {
+   "stt": 396,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật ghép sụn mi mắt",
+   "insurancePrice": "2.396.200",
+   "price": "2.396.200",
+   "note": null,
+   "sortOrder": 316
+  },
+  {
+   "stt": 397,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tái tạo cho vết thương góc mắt",
+   "insurancePrice": "2.396.200",
+   "price": "2.396.200",
+   "note": null,
+   "sortOrder": 317
+  },
+  {
+   "stt": 398,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Khâu phục hồi bờ mi",
+   "insurancePrice": "813.600",
+   "price": "813.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 318
+  },
+  {
+   "stt": 399,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Xử lý vết thương phần mềm nông vùng mi mắt",
+   "insurancePrice": "1.043.500",
+   "price": "1.043.500",
+   "note": null,
+   "sortOrder": 319
+  },
+  {
+   "stt": 400,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Nâng sàn hốc mắt",
+   "insurancePrice": "2.925.900",
+   "price": "2.925.900",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 320
+  },
+  {
+   "stt": 401,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Kéo dài cân cơ nâng mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 321
+  },
+  {
+   "stt": 402,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật hạ mi trên",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 322
+  },
+  {
+   "stt": 403,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật rút ngắn, gấp cơ nâng mi trên điều trị sụp mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 323
+  },
+  {
+   "stt": 404,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật treo mi lên cơ trán điều trị sụp mi",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 324
+  },
+  {
+   "stt": 405,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Ghép mỡ tự thân coleman điều trị lõm mắt",
+   "insurancePrice": "4.630.500",
+   "price": "4.630.500",
+   "note": null,
+   "sortOrder": 325
+  },
+  {
+   "stt": 406,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật ghép mỡ trung bì tự thân điều trị lõm mắt",
+   "insurancePrice": "4.630.500",
+   "price": "4.630.500",
+   "note": null,
+   "sortOrder": 326
+  },
+  {
+   "stt": 407,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo vạt da lân cận cho vết thương khuyết da mi",
+   "insurancePrice": "5.363.900",
+   "price": "5.363.900",
+   "note": null,
+   "sortOrder": 327
+  },
+  {
+   "stt": 408,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo vạt da tại chỗ cho vết thương khuyết da mi",
+   "insurancePrice": "5.363.900",
+   "price": "5.363.900",
+   "note": null,
+   "sortOrder": 328
+  },
+  {
+   "stt": 409,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật tạo vạt da tại chỗ cho vết thương khuyết toàn bộ mi dưới",
+   "insurancePrice": "5.363.900",
+   "price": "5.363.900",
+   "note": null,
+   "sortOrder": 329
+  },
+  {
+   "stt": 410,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tái tạo toàn bộ mi và cùng đồ bằng vạt có cuống mạch",
+   "insurancePrice": "5.363.900",
+   "price": "5.363.900",
+   "note": null,
+   "sortOrder": 330
+  },
+  {
+   "stt": 411,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Tái tạo toàn bộ mi và cùng đồ bằng vạt tự do",
+   "insurancePrice": "6.646.900",
+   "price": "6.646.900",
+   "note": null,
+   "sortOrder": 331
+  },
+  {
+   "stt": 429,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật chuyển gân điều trị hở mi (mắt thỏ) cho người bệnh phong",
+   "insurancePrice": "2.572.800",
+   "price": "2.572.800",
+   "note": null,
+   "sortOrder": 332
+  },
+  {
+   "stt": 430,
+   "category": "Mi mắt – Lệ đạo – Hốc mắt – Tạo hình",
+   "name": "Phẫu thuật điều trị sa trễ mi dưới cho người bệnh phong",
+   "insurancePrice": "2.292.800",
+   "price": "2.292.800",
+   "note": null,
+   "sortOrder": 333
+  },
+  {
+   "stt": 414,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị bớt sùi bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 334
+  },
+  {
+   "stt": 415,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị bớt sùi bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 335
+  },
+  {
+   "stt": 416,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị dày sừng ánh nắng bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 336
+  },
+  {
+   "stt": 417,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị dày sừng ánh nắng bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 337
+  },
+  {
+   "stt": 418,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị dày sừng da dầu bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 338
+  },
+  {
+   "stt": 419,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị dày sừng da dầu bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 339
+  },
+  {
+   "stt": 420,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị hạt cơm bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 340
+  },
+  {
+   "stt": 421,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị hạt cơm bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 341
+  },
+  {
+   "stt": 422,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị sẩn cục bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 342
+  },
+  {
+   "stt": 423,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị sẩn cục bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 343
+  },
+  {
+   "stt": 424,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị sùi mào gà bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 344
+  },
+  {
+   "stt": 425,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị u mềm treo bằng đốt điện",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 345
+  },
+  {
+   "stt": 426,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị u mềm treo bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 346
+  },
+  {
+   "stt": 427,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị u ống tuyến mồ hôi bằng Laser CO2",
+   "insurancePrice": "399.000",
+   "price": "399.000",
+   "note": null,
+   "sortOrder": 347
+  },
+  {
+   "stt": 428,
+   "category": "Điều trị da vùng mặt",
+   "name": "Điều trị sùi mào gà bằng Laser CO2",
+   "insurancePrice": "889.700",
+   "price": "889.700",
+   "note": null,
+   "sortOrder": 348
+  },
+  {
+   "stt": 4,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Bóp bóng Ambu qua mặt nạ",
+   "insurancePrice": "248.500",
+   "price": "248.500",
+   "note": null,
+   "sortOrder": 349
+  },
+  {
+   "stt": 5,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Đặt nội khí quản",
+   "insurancePrice": "600.500",
+   "price": "600.500",
+   "note": null,
+   "sortOrder": 350
+  },
+  {
+   "stt": 6,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Sốc điện ngoài lồng ngực cấp cứu",
+   "insurancePrice": "532.400",
+   "price": "532.400",
+   "note": null,
+   "sortOrder": 351
+  },
+  {
+   "stt": 10,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Hút đờm hầu họng",
+   "insurancePrice": "14.100",
+   "price": "14.100",
+   "note": null,
+   "sortOrder": 352
+  },
+  {
+   "stt": 11,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Điều trị chứng co thắt nửa mặt bằng tiêm Botulinum Toxin A",
+   "insurancePrice": "1.260.800",
+   "price": "1.260.800",
+   "note": null,
+   "sortOrder": 353
+  },
+  {
+   "stt": 12,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Điều trị chứng giật cơ mi mắt bằng tiêm Botulinum Toxin A",
+   "insurancePrice": "1.260.800",
+   "price": "1.260.800",
+   "note": null,
+   "sortOrder": 354
+  },
+  {
+   "stt": 64,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Tiêm tĩnh mạch, truyền tĩnh mạch",
+   "insurancePrice": "15.100",
+   "price": "15.100",
+   "note": null,
+   "sortOrder": 355
+  },
+  {
+   "stt": 65,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Tiêm trong da; tiêm dưới da; tiêm bắp thịt",
+   "insurancePrice": "15.100",
+   "price": "15.100",
+   "note": null,
+   "sortOrder": 356
+  },
+  {
+   "stt": 151,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Lấy máu làm huyết thanh",
+   "insurancePrice": "69.000",
+   "price": "69.000",
+   "note": null,
+   "sortOrder": 357
+  },
+  {
+   "stt": 287,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Cấp cứu bỏng mắt ban đầu",
+   "insurancePrice": "344.200",
+   "price": "344.200",
+   "note": null,
+   "sortOrder": 358
+  },
+  {
+   "stt": 326,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Khâu vết rách vành tai",
+   "insurancePrice": "194.700",
+   "price": "194.700",
+   "note": null,
+   "sortOrder": 359
+  },
+  {
+   "stt": 431,
+   "category": "Cấp cứu & thủ thuật chung",
+   "name": "Đặt catheter tĩnh mạch cảnh ngoài",
+   "insurancePrice": "685.500",
+   "price": "685.500",
+   "note": null,
+   "sortOrder": 360
+  },
+  {
+   "stt": 8,
+   "category": "Xét nghiệm",
+   "name": "Định nhóm máu tại giường",
+   "insurancePrice": "42.100",
+   "price": "42.100",
+   "note": null,
+   "sortOrder": 361
+  },
+  {
+   "stt": 342,
+   "category": "Xét nghiệm",
+   "name": "Định nhóm máu tại giường bệnh trước truyền máu",
+   "insurancePrice": "24.800",
+   "price": "24.800",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 362
+  },
+  {
+   "stt": 343,
+   "category": "Xét nghiệm",
+   "name": "Định nhóm máu tại giường bệnh trước truyền máu",
+   "insurancePrice": "22.200",
+   "price": "22.200",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 363
+  },
+  {
+   "stt": 344,
+   "category": "Xét nghiệm",
+   "name": "Định nhóm máu hệ ABO (Kỹ thuật phiến đá)",
+   "insurancePrice": "42.100",
+   "price": "42.100",
+   "note": null,
+   "sortOrder": 364
+  },
+  {
+   "stt": 345,
+   "category": "Xét nghiệm",
+   "name": "Định nhóm máu hệ Rh(D) (Kỹ thuật phiến đá)",
+   "insurancePrice": "33.500",
+   "price": "33.500",
+   "note": null,
+   "sortOrder": 365
+  },
+  {
+   "stt": 346,
+   "category": "Xét nghiệm",
+   "name": "Xét nghiệm hồng cầu lưới (bằng phương pháp thủ công)",
+   "insurancePrice": "28.400",
+   "price": "28.400",
+   "note": null,
+   "sortOrder": 366
+  },
+  {
+   "stt": 347,
+   "category": "Xét nghiệm",
+   "name": "Máu lắng (bằng phương pháp thủ công)",
+   "insurancePrice": "28.400",
+   "price": "28.400",
+   "note": null,
+   "sortOrder": 367
+  },
+  {
+   "stt": 348,
+   "category": "Xét nghiệm",
+   "name": "Thời gian máu chảy phương pháp Duke",
+   "insurancePrice": "13.600",
+   "price": "13.600",
+   "note": null,
+   "sortOrder": 368
+  },
+  {
+   "stt": 349,
+   "category": "Xét nghiệm",
+   "name": "Tìm giun chỉ trong máu",
+   "insurancePrice": "37.300",
+   "price": "37.300",
+   "note": null,
+   "sortOrder": 369
+  },
+  {
+   "stt": 350,
+   "category": "Xét nghiệm",
+   "name": "Tìm hồng cầu có chấm ưa bazơ",
+   "insurancePrice": "18.600",
+   "price": "18.600",
+   "note": null,
+   "sortOrder": 370
+  },
+  {
+   "stt": 351,
+   "category": "Xét nghiệm",
+   "name": "Tìm ký sinh trùng sốt rét trong máu (bằng phương pháp thủ công)",
+   "insurancePrice": "39.700",
+   "price": "39.700",
+   "note": null,
+   "sortOrder": 371
+  },
+  {
+   "stt": 352,
+   "category": "Xét nghiệm",
+   "name": "Phân tích tế bào máu ngoại vi (bằng phương pháp thủ công)",
+   "insurancePrice": "39.700",
+   "price": "39.700",
+   "note": null,
+   "sortOrder": 372
+  },
+  {
+   "stt": 353,
+   "category": "Xét nghiệm",
+   "name": "Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở)",
+   "insurancePrice": "43.500",
+   "price": "43.500",
+   "note": null,
+   "sortOrder": 373
+  },
+  {
+   "stt": 354,
+   "category": "Xét nghiệm",
+   "name": "Xét nghiệm tế bào cặn nước tiểu (bằng phương pháp thủ công)",
+   "insurancePrice": "44.800",
+   "price": "44.800",
+   "note": null,
+   "sortOrder": 374
+  },
+  {
+   "stt": 355,
+   "category": "Xét nghiệm",
+   "name": "Xét nghiệm tế bào trong nước dịch chẩn đoán tế bào học (não tủy, màng tim, màng phổi, màng bụng, dịch khớp, rửa phế quản…) bằng phương pháp thủ công",
+   "insurancePrice": "58.300",
+   "price": "58.300",
+   "note": null,
+   "sortOrder": 375
+  },
+  {
+   "stt": 356,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Bilirubin gián tiếp [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 376
+  },
+  {
+   "stt": 357,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Bilirubin toàn phần [dịch]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 377
+  },
+  {
+   "stt": 358,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Bilirubin toàn phần [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 378
+  },
+  {
+   "stt": 359,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Bilirubin trực tiếp [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 379
+  },
+  {
+   "stt": 360,
+   "category": "Xét nghiệm",
+   "name": "Đo hoạt độ ALT (GPT) [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 380
+  },
+  {
+   "stt": 361,
+   "category": "Xét nghiệm",
+   "name": "Đo hoạt độ AST (GOT) [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 381
+  },
+  {
+   "stt": 362,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Acid Uric [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 382
+  },
+  {
+   "stt": 363,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Albumin [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 383
+  },
+  {
+   "stt": 364,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Albumin [thuỷ dịch]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 384
+  },
+  {
+   "stt": 365,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Creatinin (máu)",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 385
+  },
+  {
+   "stt": 366,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Creatinin [dịch]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 386
+  },
+  {
+   "stt": 367,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Globulin [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 387
+  },
+  {
+   "stt": 368,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Globulin [thuỷ dịch]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 388
+  },
+  {
+   "stt": 369,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Glucose [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 389
+  },
+  {
+   "stt": 370,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Protein [dịch chọc dò]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 390
+  },
+  {
+   "stt": 371,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Protein toàn phần [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 391
+  },
+  {
+   "stt": 372,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Urê [dịch]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 392
+  },
+  {
+   "stt": 373,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Urê máu [Máu]",
+   "insurancePrice": "22.400",
+   "price": "22.400",
+   "note": null,
+   "sortOrder": 393
+  },
+  {
+   "stt": 374,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Cholesterol toàn phần (máu)",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 394
+  },
+  {
+   "stt": 375,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Cholesterol toàn phần [dịch chọc dò]",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 395
+  },
+  {
+   "stt": 376,
+   "category": "Xét nghiệm",
+   "name": "Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu]",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 396
+  },
+  {
+   "stt": 377,
+   "category": "Xét nghiệm",
+   "name": "Định lượng LDL-C (Low density lipoprotein Cholesterol) [Máu]",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 397
+  },
+  {
+   "stt": 378,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Triglycerid (máu) [Máu]",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 398
+  },
+  {
+   "stt": 379,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Triglycerid [dịch chọc dò]",
+   "insurancePrice": "28.000",
+   "price": "28.000",
+   "note": null,
+   "sortOrder": 399
+  },
+  {
+   "stt": 380,
+   "category": "Xét nghiệm",
+   "name": "Tổng phân tích nước tiểu (Bằng máy tự động)",
+   "insurancePrice": "28.600",
+   "price": "28.600",
+   "note": null,
+   "sortOrder": 400
+  },
+  {
+   "stt": 381,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Glucose [dịch chọc dò]",
+   "insurancePrice": "13.400",
+   "price": "13.400",
+   "note": null,
+   "sortOrder": 401
+  },
+  {
+   "stt": 382,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Glucose [dịch não tủy]",
+   "insurancePrice": "13.400",
+   "price": "13.400",
+   "note": null,
+   "sortOrder": 402
+  },
+  {
+   "stt": 383,
+   "category": "Xét nghiệm",
+   "name": "Định lượng Protein [dịch não tủy]",
+   "insurancePrice": "11.200",
+   "price": "11.200",
+   "note": null,
+   "sortOrder": 403
+  },
+  {
+   "stt": 384,
+   "category": "Xét nghiệm",
+   "name": "Phản ứng Rivalta [dịch]",
+   "insurancePrice": "8.800",
+   "price": "8.800",
+   "note": null,
+   "sortOrder": 404
+  },
+  {
+   "stt": 385,
+   "category": "Xét nghiệm",
+   "name": "Neisseria gonorrhoeae nhuộm soi",
+   "insurancePrice": "74.200",
+   "price": "74.200",
+   "note": null,
+   "sortOrder": 405
+  },
+  {
+   "stt": 386,
+   "category": "Xét nghiệm",
+   "name": "Vi khuẩn nhuộm soi",
+   "insurancePrice": "74.200",
+   "price": "74.200",
+   "note": null,
+   "sortOrder": 406
+  },
+  {
+   "stt": 387,
+   "category": "Xét nghiệm",
+   "name": "Vi khuẩn nuôi cấy và định danh phương pháp thông thường",
+   "insurancePrice": "261.000",
+   "price": "261.000",
+   "note": null,
+   "sortOrder": 407
+  },
+  {
+   "stt": 432,
+   "category": "Ngày giường điều trị",
+   "name": "Giường Ngoại khoa loại 1 - Khoa Mắt",
+   "insurancePrice": "341.800",
+   "price": "341.800",
+   "note": null,
+   "sortOrder": 408
+  },
+  {
+   "stt": 433,
+   "category": "Ngày giường điều trị",
+   "name": "Giường Ngoại khoa loại 2 - Khoa Mắt",
+   "insurancePrice": "301.600",
+   "price": "301.600",
+   "note": null,
+   "sortOrder": 409
+  },
+  {
+   "stt": 434,
+   "category": "Ngày giường điều trị",
+   "name": "Giường Ngoại khoa loại 3 - Khoa Mắt",
+   "insurancePrice": "269.200",
+   "price": "269.200",
+   "note": null,
+   "sortOrder": 410
+  },
+  {
+   "stt": 435,
+   "category": "Ngày giường điều trị",
+   "name": "Giường Ngoại khoa loại 4 - Khoa Mắt",
+   "insurancePrice": "229.200",
+   "price": "229.200",
+   "note": null,
+   "sortOrder": 411
+  },
+  {
+   "stt": 436,
+   "category": "Ngày giường điều trị",
+   "name": "Giường Nội khoa loại 2 - Khoa Mắt",
+   "insurancePrice": "222.300",
+   "price": "222.300",
+   "note": null,
+   "sortOrder": 412
+  },
+  {
+   "stt": 9,
+   "category": "Thủ thuật khác",
+   "name": "Ghi điện tim cấp cứu tại giường",
+   "insurancePrice": "39.900",
+   "price": "39.900",
+   "note": null,
+   "sortOrder": 413
+  },
+  {
+   "stt": 16,
+   "category": "Thủ thuật khác",
+   "name": "Kỹ thuật sinh thiết da",
+   "insurancePrice": "138.500",
+   "price": "138.500",
+   "note": null,
+   "sortOrder": 414
+  },
+  {
+   "stt": 43,
+   "category": "Thủ thuật khác",
+   "name": "Cắt u tiền phòng",
+   "insurancePrice": "1.322.100",
+   "price": "1.322.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 415
+  },
+  {
+   "stt": 70,
+   "category": "Thủ thuật khác",
+   "name": "Ghép da dị loại",
+   "insurancePrice": "3.044.900",
+   "price": "3.044.900",
+   "note": null,
+   "sortOrder": 416
+  },
+  {
+   "stt": 77,
+   "category": "Thủ thuật khác",
+   "name": "Cắt chỉ bằng laser",
+   "insurancePrice": "342.400",
+   "price": "342.400",
+   "note": null,
+   "sortOrder": 417
+  },
+  {
+   "stt": 85,
+   "category": "Thủ thuật khác",
+   "name": "Trích mủ mắt",
+   "insurancePrice": "510.700",
+   "price": "510.700",
+   "note": null,
+   "sortOrder": 418
+  },
+  {
+   "stt": 90,
+   "category": "Thủ thuật khác",
+   "name": "Điện di điều trị",
+   "insurancePrice": "27.500",
+   "price": "27.500",
+   "note": null,
+   "sortOrder": 419
+  },
+  {
+   "stt": 94,
+   "category": "Thủ thuật khác",
+   "name": "Điều trị laser hồng ngoại",
+   "insurancePrice": "43.600",
+   "price": "43.600",
+   "note": null,
+   "sortOrder": 420
+  },
+  {
+   "stt": 135,
+   "category": "Thủ thuật khác",
+   "name": "Xử lý vết thương phần mềm, tổn thương nông vùng mắt",
+   "insurancePrice": "1.043.500",
+   "price": "1.043.500",
+   "note": null,
+   "sortOrder": 421
+  },
+  {
+   "stt": 137,
+   "category": "Thủ thuật khác",
+   "name": "Cắt thị thần kinh",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": null,
+   "sortOrder": 422
+  },
+  {
+   "stt": 143,
+   "category": "Thủ thuật khác",
+   "name": "Bóc giả mạc",
+   "insurancePrice": "99.400",
+   "price": "99.400",
+   "note": null,
+   "sortOrder": 423
+  },
+  {
+   "stt": 150,
+   "category": "Thủ thuật khác",
+   "name": "Lấy dị vật tiền phòng",
+   "insurancePrice": "1.244.100",
+   "price": "1.244.100",
+   "note": null,
+   "sortOrder": 424
+  },
+  {
+   "stt": 174,
+   "category": "Thủ thuật khác",
+   "name": "Bơm hơi /khí tiền phòng",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": null,
+   "sortOrder": 425
+  },
+  {
+   "stt": 175,
+   "category": "Thủ thuật khác",
+   "name": "Rửa chất nhân tiền phòng",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": null,
+   "sortOrder": 426
+  },
+  {
+   "stt": 176,
+   "category": "Thủ thuật khác",
+   "name": "Rửa tiền phòng (máu, xuất tiết, mủ, hóa chất...)",
+   "insurancePrice": "830.200",
+   "price": "830.200",
+   "note": null,
+   "sortOrder": 427
+  },
+  {
+   "stt": 191,
+   "category": "Thủ thuật khác",
+   "name": "Cắt màng xuất tiết diện đồng tử, cắt màng đồng tử",
+   "insurancePrice": "1.032.600",
+   "price": "1.032.600",
+   "note": null,
+   "sortOrder": 428
+  },
+  {
+   "stt": 192,
+   "category": "Thủ thuật khác",
+   "name": "Cắt mống mắt quang học có hoặc không tách dính phức tạp",
+   "insurancePrice": "1.032.600",
+   "price": "1.032.600",
+   "note": null,
+   "sortOrder": 429
+  },
+  {
+   "stt": 217,
+   "category": "Thủ thuật khác",
+   "name": "Cắt cơ Muller",
+   "insurancePrice": "1.402.600",
+   "price": "1.402.600",
+   "note": null,
+   "sortOrder": 430
+  },
+  {
+   "stt": 274,
+   "category": "Thủ thuật khác",
+   "name": "Cắt u hậu phòng",
+   "insurancePrice": "2.185.500",
+   "price": "2.185.500",
+   "note": null,
+   "sortOrder": 431
+  },
+  {
+   "stt": 276,
+   "category": "Thủ thuật khác",
+   "name": "Cắt u tiền phòng",
+   "insurancePrice": "1.260.100",
+   "price": "1.260.100",
+   "note": "Mức giá theo phân loại kỹ thuật",
+   "sortOrder": 432
+  },
+  {
+   "stt": 279,
+   "category": "Thủ thuật khác",
+   "name": "Tạo hình mống mắt (khâu mống mắt, chân mống mắt...)",
+   "insurancePrice": "1.260.100",
+   "price": "1.260.100",
+   "note": null,
+   "sortOrder": 433
+  },
+  {
+   "stt": 395,
+   "category": "Thủ thuật khác",
+   "name": "Phẫu thuật chỉnh sửa các biến chứng sau mổ thẩm mỹ vùng mắt",
+   "insurancePrice": "2.396.200",
+   "price": "2.396.200",
+   "note": null,
+   "sortOrder": 434
+  },
+  {
+   "stt": 413,
+   "category": "Thủ thuật khác",
+   "name": "Sinh thiết niêm mạc",
+   "insurancePrice": "138.500",
+   "price": "138.500",
+   "note": null,
+   "sortOrder": 435
+  }
+ ]
+}

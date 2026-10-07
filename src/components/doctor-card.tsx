@@ -25,6 +25,7 @@ export function DoctorCard({ doctor, showBio = false }: { doctor: Doctor; showBi
         <p className="text-sm font-semibold uppercase tracking-wider text-primary-700">{doctor.degree}</p>
         <h3 className="mt-1 font-display text-xl font-bold text-ink">{doctor.name}</h3>
         <p className="mt-1 text-muted">{[doctor.position, doctor.specialty].filter(Boolean).join(" · ")}</p>
+        {doctor.license ? <p className="mt-2 text-sm text-muted">CCHN: {doctor.license}</p> : null}
         {showBio && doctor.bio ? <p className="mt-3 border-t border-line pt-3 text-[0.95rem] text-ink-soft">{doctor.bio}</p> : null}
       </div>
     </article>

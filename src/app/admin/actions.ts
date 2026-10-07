@@ -194,6 +194,8 @@ export async function saveDoctor(_: AdminState, fd: FormData): Promise<AdminStat
     position: str(fd, "position"),
     specialty: str(fd, "specialty"),
     bio: str(fd, "bio"),
+    license: opt(fd, "license"),
+    isDoctor: bool(fd, "isDoctor"),
     sortOrder: num(fd, "sortOrder"),
     published: bool(fd, "published"),
     photo,
@@ -225,9 +227,10 @@ export async function savePriceItem(fd: FormData) {
     category: str(fd, "category") || "Khác",
     name: str(fd, "name"),
     price: str(fd, "price") || "Liên hệ",
+    insurancePrice: opt(fd, "insurancePrice"),
     unit: str(fd, "unit") || "lần",
     note: opt(fd, "note"),
-    insured: bool(fd, "insured"),
+    insured: !!opt(fd, "insurancePrice") || bool(fd, "insured"),
     sortOrder: num(fd, "sortOrder"),
   };
   if (!values.name) return;

@@ -90,13 +90,13 @@ Vào **Settings → Domains**, thêm tên miền rồi trỏ DNS theo hướng d
 
 ## Việc cần làm trước khi công bố chính thức
 
-- [ ] **Nhập giá chính thức** trong Admin → Bảng giá (hiện tất cả đang là “Liên hệ”).
-- [ ] **Kiểm tra giờ làm việc** trong Admin → Cài đặt (hiện tạm đặt “Thứ 2 – Thứ 7: 7:00 – 16:30”).
+- [x] Bảng giá chính thức (436 dịch vụ, Nghị quyết 399/NQ-HĐND) và danh sách nhân sự đã được nhập (`scripts/data/`).
+- [x] Giờ làm việc: Thứ 2 – Thứ 6, 7:15 – 11:30 và 13:30 – 16:45; Thứ 7, Chủ nhật chỉ cấp cứu.
 - [ ] **Link Zalo**: thay bằng link Zalo OA hoặc số di động có Zalo (`https://zalo.me/<số>`). Số máy bàn không dùng được Zalo.
 - [ ] Thêm **bác sĩ** (ảnh, học vị, chức vụ) và **ảnh** cho bài viết.
 - [ ] **Khoa chuyên môn duyệt nội dung y khoa** (trang dịch vụ, bài viết, câu trả lời mẫu ở mục Hỏi đáp) trước khi đăng.
 - [ ] Thay logo SVG tạm (`src/components/logo.tsx`, `src/app/icon.svg`) bằng **file vector logo chính thức** khi bệnh viện cung cấp.
-- [ ] Đặt mật khẩu Admin mạnh và lưu ở nơi an toàn.
+- [ ] **Đổi mật khẩu Admin** (biến `ADMIN_PASSWORD` trên Vercel) sang mật khẩu mạnh ≥ 12 ký tự rồi deploy lại.
 
 ## Cấu trúc thư mục
 

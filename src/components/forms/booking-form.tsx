@@ -89,7 +89,7 @@ export function BookingForm({ services, doctors, hotline }: { services: Opt[]; d
                 ))}
               </select>
             </Field>
-            <Field label="Ngày mong muốn" htmlFor="preferredDate" required error={e?.preferredDate}>
+            <Field label="Ngày mong muốn" htmlFor="preferredDate" required error={e?.preferredDate} hint="Khám theo lịch hẹn từ Thứ 2 đến Thứ 6.">
               <input id="preferredDate" name="preferredDate" type="date" min={minDate} defaultValue={v.preferredDate} className={inputClass} {...errProps(e, "preferredDate")} />
             </Field>
             <div>

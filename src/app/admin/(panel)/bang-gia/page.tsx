@@ -8,7 +8,7 @@ import type { PriceItem } from "@/lib/db/schema";
 
 function Row({ r, categories }: { r?: PriceItem; categories: string[] }) {
   return (
-    <form action={savePriceItem} className="grid gap-2 p-4 md:grid-cols-[10rem_1fr_9rem_6rem_5rem_4.5rem_auto] md:items-center">
+    <form action={savePriceItem} className="grid gap-2 p-4 md:grid-cols-[10rem_1fr_8rem_8rem_5rem_auto] md:items-center">
       <input type="hidden" name="id" value={r?.id ?? ""} />
       <label>
         <span className="sr-only">Nhóm</span>
@@ -19,19 +19,17 @@ function Row({ r, categories }: { r?: PriceItem; categories: string[] }) {
         <input name="name" defaultValue={r?.name} placeholder="Tên dịch vụ" required className={smallInput} />
       </label>
       <label>
-        <span className="sr-only">Giá</span>
-        <input name="price" defaultValue={r?.price ?? ""} placeholder="VD: 150.000" className={smallInput} />
+        <span className="sr-only">Giá BHYT</span>
+        <input name="insurancePrice" defaultValue={r?.insurancePrice ?? ""} placeholder="Giá BHYT" className={smallInput} />
       </label>
       <label>
-        <span className="sr-only">Đơn vị</span>
-        <input name="unit" defaultValue={r?.unit ?? "lần"} className={smallInput} />
+        <span className="sr-only">Giá thu phí</span>
+        <input name="price" defaultValue={r?.price ?? ""} placeholder="Giá thu phí" className={smallInput} />
       </label>
+      <input type="hidden" name="unit" value={r?.unit ?? "lần"} />
       <label>
         <span className="sr-only">Thứ tự</span>
         <input name="sortOrder" type="number" defaultValue={r?.sortOrder ?? 0} className={smallInput} />
-      </label>
-      <label className="flex items-center gap-1.5 text-sm font-medium">
-        <input type="checkbox" name="insured" defaultChecked={r?.insured} className="h-4 w-4 accent-primary-700" /> BHYT
       </label>
       <div className="flex gap-2">
         <button className="flex min-h-10 cursor-pointer items-center gap-1.5 rounded-lg bg-primary-700 px-3 font-semibold text-white hover:bg-primary-800">
@@ -44,7 +42,7 @@ function Row({ r, categories }: { r?: PriceItem; categories: string[] }) {
           </button>
         ) : null}
       </div>
-      <label className="md:col-span-7">
+      <label className="md:col-span-6">
         <span className="sr-only">Ghi chú</span>
         <input name="note" defaultValue={r?.note ?? ""} placeholder="Ghi chú (không bắt buộc)" className={`${smallInput} text-sm`} />
       </label>
@@ -65,7 +63,7 @@ export default async function PricesAdmin() {
   const categories = [...new Set(rows.map((r) => r.category))];
   return (
     <>
-      <AdminHeader title="Bảng giá" desc="Nhập giá chính thức theo quyết định của bệnh viện. Để “Liên hệ” nếu chưa công bố giá." />
+      <AdminHeader title="Bảng giá" desc="Giá theo Nghị quyết 399/NQ-HĐND (28/08/2025). Để trống Giá BHYT nếu dịch vụ không áp dụng BHYT." />
       <Panel className="mb-6 border-primary-200 bg-primary-50/50">
         <p className="px-4 pt-4 font-semibold text-primary-800">Thêm dòng mới</p>
         <Row categories={categories} />

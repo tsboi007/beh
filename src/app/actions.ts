@@ -110,6 +110,14 @@ export async function bookAppointment(_: FormState<{ code: string }>, fd: FormDa
   if (parsed.data.preferredDate < today) {
     return { ok: false, errors: { preferredDate: "Ngày khám phải từ hôm nay trở đi." }, values };
   }
+  const weekday = new Date(parsed.data.preferredDate + "T00:00:00Z").getUTCDay();
+  if (weekday === 0 || weekday === 6) {
+    return {
+      ok: false,
+      errors: { preferredDate: "Thứ 7 và Chủ nhật bệnh viện chỉ tiếp nhận cấp cứu. Vui lòng chọn ngày từ Thứ 2 đến Thứ 6." },
+      values,
+    };
+  }
 
   const db = await getDb();
   const d = parsed.data;

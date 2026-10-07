@@ -34,6 +34,10 @@ export default async function SiteLayout({ children }: LayoutProps<"/">) {
           email: s.email,
           foundingDate: String(SITE.founded),
           medicalSpecialty: "Ophthalmology",
+          openingHoursSpecification: [
+            { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], opens: "07:15", closes: "11:30" },
+            { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], opens: "13:30", closes: "16:45" },
+          ],
           address: {
             "@type": "PostalAddress",
             streetAddress: "17 Phạm Ngọc Thạch",

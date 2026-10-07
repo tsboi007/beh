@@ -1,0 +1,611 @@
+[
+ {
+  "name": "Nguyễn Trần Ngọc Duyên",
+  "slug": "nguyen-tran-ngoc-duyen",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Công tác xã hội"
+ },
+ {
+  "name": "Huỳnh Thị Phấn",
+  "slug": "huynh-thi-phan",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Quản lý chất lượng – CNTT"
+ },
+ {
+  "name": "Phan Thị Ngọc Thảo",
+  "slug": "phan-thi-ngoc-thao",
+  "license": "0026897/BYT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khám bệnh – Cấp cứu"
+ },
+ {
+  "name": "Lê Cao Bách",
+  "slug": "le-cao-bach",
+  "license": "000502/BRVT-GPHN",
+  "isDoctor": true,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Lê Song Huy",
+  "slug": "le-song-huy",
+  "license": "000474/BRVT-GPHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Lê My Thanh Thuận",
+  "slug": "le-my-thanh-thuan",
+  "license": "000489/BRVT-GPHN",
+  "isDoctor": true,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Tạ Minh Tuấn",
+  "slug": "ta-minh-tuan",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Khám bệnh – Cấp cứu"
+ },
+ {
+  "name": "Lê Thị Lệ Giang",
+  "slug": "le-thi-le-giang",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Khám bệnh – Cấp cứu"
+ },
+ {
+  "name": "Nguyễn Thị Châu",
+  "slug": "nguyen-thi-chau",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Kiểm soát nhiễm khuẩn"
+ },
+ {
+  "name": "Nguyễn Thị Thơm",
+  "slug": "nguyen-thi-thom",
+  "license": "003029/TNI-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Mai Thị Mến",
+  "slug": "mai-thi-men",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Tạ Ngọc Hà",
+  "slug": "ta-ngoc-ha",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Quản lý chất lượng – CNTT"
+ },
+ {
+  "name": "Nguyễn Thị Ngọc Nhàn",
+  "slug": "nguyen-thi-ngoc-nhan",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Công tác xã hội"
+ },
+ {
+  "name": "Lê Thị Việt Hà",
+  "slug": "le-thi-viet-ha",
+  "license": "15374/TH-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khám bệnh – Cấp cứu"
+ },
+ {
+  "name": "Nguyễn Ngọc My My",
+  "slug": "nguyen-ngoc-my-my",
+  "license": "0027655/HCM-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Cao Phát Đạt",
+  "slug": "cao-phat-dat",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Tiết chế dinh dưỡng"
+ },
+ {
+  "name": "Cao Thị Minh Hằng",
+  "slug": "cao-thi-minh-hang",
+  "license": "006321/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Khánh",
+  "slug": "nguyen-khanh",
+  "license": "006320/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Văn Tuyền",
+  "slug": "nguyen-van-tuyen",
+  "license": "000121/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Lý Minh Đạt",
+  "slug": "ly-minh-dat",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Quản lý chất lượng – CNTT"
+ },
+ {
+  "name": "Trần Thị Thanh Loan",
+  "slug": "tran-thi-thanh-loan",
+  "license": "004026/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Tiết chế dinh dưỡng"
+ },
+ {
+  "name": "Phạm Thị Huyền",
+  "slug": "pham-thi-huyen",
+  "license": "003682/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Tiết chế dinh dưỡng"
+ },
+ {
+  "name": "Trang Thị Mai Hương",
+  "slug": "trang-thi-mai-huong",
+  "license": "001080/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Kiểm soát nhiễm khuẩn"
+ },
+ {
+  "name": "Phạm Xuân Hoa",
+  "slug": "pham-xuan-hoa",
+  "license": "001967/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Kiểm soát nhiễm khuẩn"
+ },
+ {
+  "name": "Nguyễn Thị Kim Ánh",
+  "slug": "nguyen-thi-kim-anh",
+  "license": "01074/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Xét nghiệm – Chẩn đoán hình ảnh"
+ },
+ {
+  "name": "Nguyễn Văn Trung",
+  "slug": "nguyen-van-trung",
+  "license": "001073/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Xét nghiệm – Chẩn đoán hình ảnh"
+ },
+ {
+  "name": "Nguyễn Thị Quỳnh Thu",
+  "slug": "nguyen-thi-quynh-thu",
+  "license": "0026337/HCM-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Hoàng Ngọc Anh",
+  "slug": "nguyen-hoang-ngoc-anh",
+  "license": "004120/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Xét nghiệm – Chẩn đoán hình ảnh"
+ },
+ {
+  "name": "Trang Hồng Hoa",
+  "slug": "trang-hong-hoa",
+  "license": "1253/BRVT-CCHND",
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Nguyễn Ngọc Thông",
+  "slug": "nguyen-ngoc-thong",
+  "license": "227/BRVT-CCHND",
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Trần Thị Ngọc Ánh",
+  "slug": "tran-thi-ngoc-anh",
+  "license": "1767/BRVT-CCHND",
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Nguyễn Bích Tuyền",
+  "slug": "nguyen-bich-tuyen",
+  "license": "840/CCHN-D-SYT-CM",
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Phan Hữu Quy",
+  "slug": "phan-huu-quy",
+  "license": "50/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Nguyễn Thị Phương",
+  "slug": "nguyen-thi-phuong",
+  "license": "004089/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Trung Phong",
+  "slug": "nguyen-trung-phong",
+  "license": "002706/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Đặng Thị Quyên",
+  "slug": "dang-thi-quyen",
+  "license": "001082/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Phương Linh",
+  "slug": "nguyen-phuong-linh",
+  "license": "001348/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Thị Kim Dung",
+  "slug": "nguyen-thi-kim-dung",
+  "license": "001965/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Phạm Hữu Sơn",
+  "slug": "pham-huu-son",
+  "license": "002985/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Nguyễn Thúy Nga",
+  "slug": "nguyen-thuy-nga",
+  "license": "000835/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Trương Thị Ái Vân",
+  "slug": "truong-thi-ai-van",
+  "license": "006146/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Trần Thị Hiền",
+  "slug": "tran-thi-hien",
+  "license": "001662/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Đào Anh Chiến",
+  "slug": "dao-anh-chien",
+  "license": "006319/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Trương Văn Linh",
+  "slug": "truong-van-linh",
+  "license": "006322/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Bán phần trước"
+ },
+ {
+  "name": "Võ Thị Hoa",
+  "slug": "vo-thi-hoa",
+  "license": "004040/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Thị Thanh Thủy",
+  "slug": "nguyen-thi-thanh-thuy",
+  "license": "000639/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Đỗ Trọng Cường",
+  "slug": "do-trong-cuong",
+  "license": "004952/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Ngọc Tân",
+  "slug": "nguyen-ngoc-tan",
+  "license": "004959/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Doãn Hưng",
+  "slug": "nguyen-doan-hung",
+  "license": "006324/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Phạm Duy Trinh",
+  "slug": "pham-duy-trinh",
+  "license": "000848/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Thị Tiểu Như",
+  "slug": "nguyen-thi-tieu-nhu",
+  "license": "004364/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Nguyễn Nhật Phượng",
+  "slug": "nguyen-nhat-phuong",
+  "license": "006318/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Nguyễn Thị Thúy Lành",
+  "slug": "nguyen-thi-thuy-lanh",
+  "license": "005118/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Đặng Thị Oanh",
+  "slug": "dang-thi-oanh",
+  "license": "004011/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Trần Hải Quý",
+  "slug": "tran-hai-quy",
+  "license": "001190/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Lê Thị Huyền Trang",
+  "slug": "le-thi-huyen-trang",
+  "license": "003462/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Khúc xạ – Mắt trẻ em – Chấn thương – Tạo hình thẩm mỹ"
+ },
+ {
+  "name": "Trần Thị Hoa",
+  "slug": "tran-thi-hoa",
+  "license": "005114/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Thành Trung",
+  "slug": "nguyen-thanh-trung",
+  "license": "005238/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Đoan Thư",
+  "slug": "nguyen-doan-thu",
+  "license": "000386/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Đức Nhã",
+  "slug": "nguyen-duc-nha",
+  "license": "001072/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Thị Thơ",
+  "slug": "nguyen-thi-tho",
+  "license": "003924/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Phan Thị Thu Hiền",
+  "slug": "phan-thi-thu-hien",
+  "license": "001055/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Hoàng Minh Sang",
+  "slug": "nguyen-hoang-minh-sang",
+  "license": "004088/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Phạm Thùy Nhung",
+  "slug": "pham-thuy-nhung",
+  "license": "004248/HP-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Bán phần sau"
+ },
+ {
+  "name": "Nguyễn Công Cường",
+  "slug": "nguyen-cong-cuong",
+  "license": "004513/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Hồ Thị Thu Trang",
+  "slug": "ho-thi-thu-trang",
+  "license": "003844/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Lã Như Thạnh",
+  "slug": "la-nhu-thanh",
+  "license": "004048/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Trần Thị Thu Phương",
+  "slug": "tran-thi-thu-phuong",
+  "license": "001070/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Trương Bảo Trí",
+  "slug": "truong-bao-tri",
+  "license": "006336/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Hà Danh Vương",
+  "slug": "ha-danh-vuong",
+  "license": "004841/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Võ Ngọc Lợi",
+  "slug": "vo-ngoc-loi",
+  "license": "003808/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Thị Ngọc Anh",
+  "slug": "nguyen-thi-ngoc-anh",
+  "license": "005084/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Đặng Thị Thu Hồng",
+  "slug": "dang-thi-thu-hong",
+  "license": "003867/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Thị Nguyệt",
+  "slug": "nguyen-thi-nguyet",
+  "license": "004767/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Lê Thị Thanh Trà",
+  "slug": "le-thi-thanh-tra",
+  "license": "000538/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Vũ Văn Đại",
+  "slug": "vu-van-dai",
+  "license": "003646/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Ngô Bá Hoàng",
+  "slug": "ngo-ba-hoang",
+  "license": "005100/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Phạm Thanh Tùng",
+  "slug": "pham-thanh-tung",
+  "license": "001077/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Hoàng Tùng",
+  "slug": "nguyen-hoang-tung",
+  "license": "002986/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Lại Đức Huynh",
+  "slug": "lai-duc-huynh",
+  "license": "000730/BRVT-CCHN",
+  "isDoctor": false,
+  "department": "Chuyên khoa Mắt"
+ },
+ {
+  "name": "Nguyễn Duy",
+  "slug": "nguyen-duy",
+  "license": null,
+  "isDoctor": false,
+  "department": "Khoa Dược"
+ },
+ {
+  "name": "Hà Thanh Nhân",
+  "slug": "ha-thanh-nhan",
+  "license": "000677/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Viết Giáp",
+  "slug": "nguyen-viet-giap",
+  "license": "000568/BRVT-CCHN",
+  "isDoctor": true,
+  "department": "Khoa Phẫu thuật – Gây mê hồi sức"
+ },
+ {
+  "name": "Nguyễn Thị Lý",
+  "slug": "nguyen-thi-ly",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Tài chính – Kế toán"
+ },
+ {
+  "name": "Nguyễn Thanh Sang",
+  "slug": "nguyen-thanh-sang",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Quản lý chất lượng – CNTT"
+ },
+ {
+  "name": "Nguyễn Khánh Thuận",
+  "slug": "nguyen-khanh-thuan",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Công tác xã hội"
+ },
+ {
+  "name": "Phạm Thị Ngọc Thủy",
+  "slug": "pham-thi-ngoc-thuy",
+  "license": null,
+  "isDoctor": false,
+  "department": "Phòng Tài chính – Kế toán"
+ }
+]

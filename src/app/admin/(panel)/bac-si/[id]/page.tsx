@@ -19,9 +19,9 @@ export default async function EditDoctor({ params }: PageProps<"/admin/bac-si/[i
   return (
     <>
       <Link href="/admin/bac-si" className="mb-4 inline-flex items-center gap-1.5 text-muted hover:text-primary-700">
-        <ArrowLeft className="h-4 w-4" aria-hidden /> Danh sách bác sĩ
+        <ArrowLeft className="h-4 w-4" aria-hidden /> Bác sĩ & nhân sự
       </Link>
-      <AdminHeader title={isNew ? "Thêm bác sĩ" : `Sửa: ${d!.name}`} />
+      <AdminHeader title={isNew ? "Thêm nhân sự" : `Sửa: ${d!.name}`} />
       <EditForm action={saveDoctor}>
         <input type="hidden" name="id" value={d?.id ?? ""} />
         <Panel className="grid gap-5 p-5 sm:grid-cols-2 sm:p-6">
@@ -34,12 +34,18 @@ export default async function EditDoctor({ params }: PageProps<"/admin/bac-si/[i
           <Field label="Chức vụ" htmlFor="position" hint="VD: Trưởng khoa Khúc xạ">
             <input id="position" name="position" defaultValue={d?.position} className={inputClass} />
           </Field>
-          <Field label="Chuyên môn" htmlFor="specialty">
+          <Field label="Khoa / phòng hoặc chuyên môn" htmlFor="specialty">
             <input id="specialty" name="specialty" defaultValue={d?.specialty} className={inputClass} />
           </Field>
           <Field label="Giới thiệu ngắn" htmlFor="bio" className="sm:col-span-2">
             <textarea id="bio" name="bio" rows={4} defaultValue={d?.bio} className={inputClass} />
           </Field>
+          <Field label="Số chứng chỉ hành nghề (CCHN)" htmlFor="license" hint="VD: 000568/BRVT-CCHN">
+            <input id="license" name="license" defaultValue={d?.license ?? ""} className={inputClass} />
+          </Field>
+          <div className="flex items-end pb-3">
+            <Toggle name="isDoctor" label="Là bác sĩ (hiện ở danh sách bác sĩ & form đặt lịch)" defaultChecked={d?.isDoctor ?? true} />
+          </div>
           <Field label="Thứ tự hiển thị" htmlFor="sortOrder">
             <input id="sortOrder" name="sortOrder" type="number" defaultValue={d?.sortOrder ?? 0} className={inputClass} />
           </Field>

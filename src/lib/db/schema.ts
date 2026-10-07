@@ -51,8 +51,10 @@ export const priceItems = pgTable("price_items", {
   id: serial("id").primaryKey(),
   category: text("category").notNull(),
   name: text("name").notNull(),
-  /** Free text so the hospital can write "Liên hệ", ranges, etc. */
+  /** Free text so the hospital can write "Liên hệ", ranges, etc. — this is the self-pay price. */
   price: text("price").notNull().default("Liên hệ"),
+  /** Price for patients with health insurance (BHYT); null when not covered. */
+  insurancePrice: text("insurance_price"),
   unit: text("unit").notNull().default("lần"),
   note: text("note"),
   insured: boolean("insured").notNull().default(false),
@@ -70,6 +72,10 @@ export const doctors = pgTable(
     specialty: text("specialty").notNull().default(""),
     bio: text("bio").notNull().default(""),
     photo: text("photo"),
+    /** Practising certificate number (CCHN/GPHN), shown publicly as required for practitioners. */
+    license: text("license"),
+    /** false = other staff (nurses, technicians, pharmacists, admin) listed on the team page only. */
+    isDoctor: boolean("is_doctor").notNull().default(true),
     sortOrder: integer("sort_order").notNull().default(0),
     published: boolean("published").notNull().default(true),
     createdAt: createdAt(),

@@ -72,8 +72,27 @@ export async function getDoctors() {
   return db
     .select()
     .from(schema.doctors)
-    .where(eq(schema.doctors.published, true))
+    .where(and(eq(schema.doctors.published, true), eq(schema.doctors.isDoctor, true)))
     .orderBy(asc(schema.doctors.sortOrder), asc(schema.doctors.id));
+}
+
+/** Everyone else on the team page (nurses, technicians, pharmacists, administrative staff). */
+export async function getStaff() {
+  "use cache";
+  cacheTag(TAGS.doctors);
+  cacheLife("days");
+  const db = await getDb();
+  return db
+    .select({
+      id: schema.doctors.id,
+      name: schema.doctors.name,
+      department: schema.doctors.specialty,
+      position: schema.doctors.position,
+      license: schema.doctors.license,
+    })
+    .from(schema.doctors)
+    .where(and(eq(schema.doctors.published, true), eq(schema.doctors.isDoctor, false)))
+    .orderBy(asc(schema.doctors.specialty), asc(schema.doctors.sortOrder), asc(schema.doctors.id));
 }
 
 export async function getPosts(limit = 100) {
