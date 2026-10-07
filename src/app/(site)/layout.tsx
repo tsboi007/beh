@@ -1,7 +1,6 @@
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { FloatingContact } from "@/components/floating-contact";
-import { RevealObserver } from "@/components/reveal";
 import { JsonLd } from "@/components/json-ld";
 import { getServices, getSettings } from "@/lib/data";
 import { SITE } from "@/lib/site";
@@ -22,7 +21,6 @@ export default async function SiteLayout({ children }: LayoutProps<"/">) {
       </main>
       <SiteFooter s={s} services={services} />
       <FloatingContact hotline={s.hotline} zaloUrl={s.zaloUrl} messengerUrl={s.messengerUrl} />
-      <RevealObserver />
       <JsonLd
         data={{
           "@context": "https://schema.org",

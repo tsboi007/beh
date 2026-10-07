@@ -1,68 +1,34 @@
+import Image from "next/image";
 import { BadgeCheck, CalendarCheck, ShieldCheck } from "lucide-react";
+import heroImg from "../../../public/images/hero-kham-mat.webp";
 
-/** Signature hero illustration: a stylised iris built from the logo's concentric-eye motif. */
+/** Hero: real-life consultation photo framed by the logo's concentric-eye motif, with floating proof cards. */
 export function HeroVisual() {
   return (
-    <div className="relative mx-auto aspect-square w-full max-w-[34rem]" aria-hidden>
-      {/* soft glow */}
-      <div className="absolute inset-[8%] rounded-full bg-gradient-to-br from-primary-200 via-white to-secondary-100 blur-2xl" />
+    <div className="relative mx-auto w-full max-w-[30rem] lg:max-w-none lg:pl-8">
+      {/* concentric rings (eye motif from the logo) */}
+      <div aria-hidden className="pointer-events-none absolute -right-16 -top-12 h-[30rem] w-[30rem] rounded-full border-[28px] border-primary-100/80 motion-safe:animate-[spin_90s_linear_infinite]" />
+      <div aria-hidden className="pointer-events-none absolute -right-2 top-4 h-[22rem] w-[22rem] rounded-full border-2 border-dashed border-secondary-500/25" />
+      <div aria-hidden className="pointer-events-none absolute -bottom-10 -left-6 h-40 w-40 rounded-full bg-gradient-to-br from-primary-200 to-secondary-100 blur-2xl" />
 
-      <svg viewBox="0 0 400 400" className="relative h-full w-full">
-        <defs>
-          <radialGradient id="iris" cx="50%" cy="50%" r="50%">
-            <stop offset="0%" stopColor="#022C13" />
-            <stop offset="28%" stopColor="#02421C" />
-            <stop offset="52%" stopColor="#05933E" />
-            <stop offset="78%" stopColor="#4FB87A" />
-            <stop offset="100%" stopColor="#0B7ED1" />
-          </radialGradient>
-          <radialGradient id="shine" cx="35%" cy="30%" r="40%">
-            <stop offset="0%" stopColor="#fff" stopOpacity="0.9" />
-            <stop offset="100%" stopColor="#fff" stopOpacity="0" />
-          </radialGradient>
-          <linearGradient id="ring" x1="0" x2="1" y1="0" y2="1">
-            <stop offset="0%" stopColor="#05933E" stopOpacity="0.5" />
-            <stop offset="100%" stopColor="#0B7ED1" stopOpacity="0.15" />
-          </linearGradient>
-        </defs>
-
-        <circle cx="200" cy="200" r="196" fill="none" stroke="url(#ring)" strokeWidth="1.5" strokeDasharray="2 8" />
-        <g className="origin-center motion-safe:animate-[spin_80s_linear_infinite]" style={{ transformOrigin: "200px 200px" }}>
-          <circle cx="200" cy="200" r="172" fill="none" stroke="#DAEFE2" strokeWidth="14" />
-          <circle cx="200" cy="200" r="172" fill="none" stroke="#05933E" strokeWidth="3" strokeDasharray="60 420" strokeLinecap="round" />
-          <circle cx="200" cy="200" r="172" fill="none" stroke="#0B7ED1" strokeWidth="3" strokeDasharray="20 520" strokeDashoffset="-300" strokeLinecap="round" />
-        </g>
-
-        <circle cx="200" cy="200" r="140" fill="#fff" />
-        <circle cx="200" cy="200" r="122" fill="url(#iris)" />
-        {/* iris fibres */}
-        <g stroke="#fff" strokeOpacity="0.16" strokeWidth="1.2">
-          {Array.from({ length: 48 }, (_, i) => {
-            const a = (i / 48) * Math.PI * 2;
-            const r1 = 54;
-            const r2 = 118;
-            return (
-              <line
-                key={i}
-                x1={(200 + Math.cos(a) * r1).toFixed(2)}
-                y1={(200 + Math.sin(a) * r1).toFixed(2)}
-                x2={(200 + Math.cos(a) * r2).toFixed(2)}
-                y2={(200 + Math.sin(a) * r2).toFixed(2)}
-              />
-            );
-          })}
-        </g>
-        <circle cx="200" cy="200" r="50" fill="#011a0b" />
-        <circle cx="200" cy="200" r="122" fill="url(#shine)" />
-        <ellipse cx="172" cy="166" rx="20" ry="13" fill="#fff" fillOpacity="0.85" transform="rotate(-30 172 166)" />
-        <circle cx="228" cy="232" r="5" fill="#fff" fillOpacity="0.6" />
-      </svg>
+      <div className="relative aspect-[4/5] overflow-hidden rounded-[2.5rem] shadow-lift ring-1 ring-black/5">
+        <Image
+          src={heroImg}
+          alt="Bác sĩ chuyên khoa Mắt khám sinh hiển vi cho người bệnh lớn tuổi"
+          fill
+          priority
+          placeholder="blur"
+          sizes="(min-width: 1024px) 34rem, 90vw"
+          className="object-cover"
+        />
+        <div aria-hidden className="absolute inset-0 bg-gradient-to-t from-primary-900/35 via-transparent to-transparent" />
+      </div>
 
       {/* floating proof cards */}
-      <div className="absolute -left-2 top-[14%] w-56 rounded-2xl bg-white/95 p-4 shadow-lift ring-1 ring-black/5 backdrop-blur motion-safe:animate-float sm:-left-8">
+      <div className="absolute -left-3 top-[10%] w-56 rounded-2xl bg-white/95 p-4 shadow-lift ring-1 ring-black/5 backdrop-blur motion-safe:animate-float sm:-left-10">
         <div className="flex items-center gap-3">
           <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary-100 text-primary-700">
-            <BadgeCheck className="h-5 w-5" />
+            <BadgeCheck className="h-5 w-5" aria-hidden />
           </span>
           <div className="leading-tight">
             <p className="text-sm font-semibold text-ink">Carl Zeiss Meditec</p>
@@ -72,12 +38,12 @@ export function HeroVisual() {
       </div>
 
       <div
-        className="absolute -right-2 top-[46%] w-52 rounded-2xl bg-white/95 p-4 shadow-lift ring-1 ring-black/5 backdrop-blur motion-safe:animate-float sm:-right-6"
+        className="absolute -right-3 top-[52%] w-52 rounded-2xl bg-white/95 p-4 shadow-lift ring-1 ring-black/5 backdrop-blur motion-safe:animate-float sm:-right-6"
         style={{ animationDelay: "-2.5s" }}
       >
         <div className="flex items-center gap-3">
           <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-secondary-100 text-secondary-700">
-            <ShieldCheck className="h-5 w-5" />
+            <ShieldCheck className="h-5 w-5" aria-hidden />
           </span>
           <div className="leading-tight">
             <p className="text-sm font-semibold text-ink">Áp dụng BHYT</p>
@@ -86,13 +52,15 @@ export function HeroVisual() {
         </div>
       </div>
 
-      <div
-        className="absolute bottom-[6%] left-[12%] rounded-2xl bg-primary-800 px-4 py-3 text-white shadow-lift motion-safe:animate-float"
-        style={{ animationDelay: "-4.5s" }}
-      >
-        <div className="flex items-center gap-2.5">
-          <CalendarCheck className="h-5 w-5 text-primary-300" />
-          <p className="text-sm font-semibold">Đặt lịch online trong 1 phút</p>
+      <div className="absolute inset-x-0 bottom-6 flex justify-center lg:pl-8">
+        <div
+          className="whitespace-nowrap rounded-2xl bg-primary-800 px-4 py-3 text-white shadow-lift motion-safe:animate-float"
+          style={{ animationDelay: "-4.5s" }}
+        >
+          <div className="flex items-center gap-2.5">
+            <CalendarCheck className="h-5 w-5 text-primary-300" aria-hidden />
+            <p className="text-sm font-semibold">Đặt lịch online trong 1 phút</p>
+          </div>
         </div>
       </div>
     </div>

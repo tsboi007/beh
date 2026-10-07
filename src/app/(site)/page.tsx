@@ -119,8 +119,8 @@ export default async function HomePage() {
             lead="Từ khám tầm soát định kỳ đến phẫu thuật kỹ thuật cao: mỗi phác đồ được cá nhân hóa theo tình trạng của từng người bệnh."
           />
           <ul className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {services.map((sv, i) => (
-              <li key={sv.id} data-reveal style={{ ["--reveal-delay" as string]: `${(i % 3) * 80}ms` }}>
+            {services.map((sv) => (
+              <li key={sv.id} data-reveal>
                 <article className="group relative flex h-full flex-col rounded-3xl border border-line bg-white p-7 shadow-soft transition duration-300 hover:-translate-y-1 hover:border-primary-200 hover:shadow-lift">
                   <span className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-primary-100 to-primary-200 text-primary-700 transition-transform duration-300 group-hover:scale-110">
                     <ServiceIcon name={sv.icon} className="h-7 w-7" />
@@ -182,11 +182,10 @@ export default async function HomePage() {
               </div>
             </div>
             <ul className="grid gap-4 sm:grid-cols-2">
-              {EQUIPMENT.map((eq, i) => (
+              {EQUIPMENT.map((eq) => (
                 <li
                   key={eq.name}
                   data-reveal
-                  style={{ ["--reveal-delay" as string]: `${(i % 2) * 90}ms` }}
                   className="rounded-3xl border border-white/10 bg-white/[0.04] p-6 backdrop-blur transition hover:border-primary-400/40 hover:bg-white/[0.07]"
                 >
                   <p className="text-sm font-semibold uppercase tracking-wider text-primary-300">{eq.group}</p>
@@ -216,7 +215,7 @@ export default async function HomePage() {
               { icon: ClipboardList, title: "Thăm khám", desc: "Đo thị lực, nhãn áp, khám chuyên sâu cùng bác sĩ." },
               { icon: HeartHandshake, title: "Điều trị & theo dõi", desc: "Tư vấn phác đồ, hẹn tái khám đúng lịch." },
             ].map(({ icon: Icon, title, desc }, i) => (
-              <li key={title} data-reveal style={{ ["--reveal-delay" as string]: `${i * 100}ms` }} className="relative text-center">
+              <li key={title} data-reveal className="relative text-center">
                 <span className="relative mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-white text-primary-700 shadow-lift ring-8 ring-canvas">
                   <Icon className="h-7 w-7" aria-hidden />
                   <span className="absolute -right-1 -top-1 flex h-7 w-7 items-center justify-center rounded-full bg-primary-700 text-sm font-bold text-white">

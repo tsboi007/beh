@@ -54,8 +54,8 @@ export default function AboutPage() {
               { icon: Cpu, title: "Kỹ thuật cao", desc: "Ứng dụng kỹ thuật hiện đại: ReLEx SMILE, Phaco, OCT, laser quang đông, trên nền tảng thiết bị Carl Zeiss." },
               { icon: Award, title: "Chất lượng cao", desc: "Quy trình chuyên môn chuẩn hóa, quản lý chất lượng và an toàn người bệnh được đặt lên hàng đầu." },
               { icon: Target, title: "Hiệu quả cao", desc: "Chẩn đoán chính xác, điều trị cá nhân hóa, tối ưu chi phí và áp dụng Bảo hiểm y tế." },
-            ].map(({ icon: Icon, title, desc }, i) => (
-              <li key={title} data-reveal style={{ ["--reveal-delay" as string]: `${i * 90}ms` }} className="rounded-3xl border border-line bg-white p-8 shadow-soft">
+            ].map(({ icon: Icon, title, desc }) => (
+              <li key={title} data-reveal className="rounded-3xl border border-line bg-white p-8 shadow-soft">
                 <span className="flex h-14 w-14 items-center justify-center rounded-2xl bg-primary-700 text-white">
                   <Icon className="h-7 w-7" aria-hidden />
                 </span>

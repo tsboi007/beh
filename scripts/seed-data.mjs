@@ -237,6 +237,7 @@ export const priceItems = [
 export const posts = [
   {
     slug: "ngay-thi-giac-the-gioi-2026-dung-de-glocom-lay-di-anh-sang",
+    coverImage: "/images/bai-glocom.webp",
     title: "Ngày Thị giác Thế giới 08/10/2026: Đừng để Glôcôm lấy đi ánh sáng của bạn",
     category: "Glôcôm",
     excerpt:
@@ -269,6 +270,7 @@ Tổn thương thị lực do Glôcôm thường khó hồi phục, nhưng hoàn
   },
   {
     slug: "vi-doi-mat-viet-nam-bao-ve-thi-luc-benh-nhan-dai-thao-duong",
+    coverImage: "/images/bai-vong-mac.webp",
     title: "Dự án \"Vì đôi mắt Việt Nam\": bảo vệ thị lực bệnh nhân đái tháo đường",
     category: "Tin hoạt động",
     excerpt:
@@ -290,6 +292,7 @@ Tổn thương thị lực do Glôcôm thường khó hồi phục, nhưng hoàn
   },
   {
     slug: "5-dau-hieu-duc-thuy-tinh-the-can-di-kham",
+    coverImage: "/images/bai-duc-thuy-tinh-the.webp",
     title: "5 dấu hiệu đục thủy tinh thể (cườm khô) cần đi khám sớm",
     category: "Đục thủy tinh thể",
     excerpt:
@@ -313,6 +316,7 @@ Tại Bệnh viện Mắt BR-VT, phẫu thuật Phaco được thực hiện v�
   },
   {
     slug: "bao-ve-mat-tre-truoc-man-hinh-quy-tac-20-20-20",
+    coverImage: "/images/bai-mat-tre-em.webp",
     title: "Bảo vệ mắt trẻ trước màn hình: quy tắc 20-20-20",
     category: "Mắt trẻ em",
     excerpt:
