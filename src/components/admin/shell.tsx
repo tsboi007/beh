@@ -8,6 +8,7 @@ import {
   CalendarCheck,
   ExternalLink,
   FileText,
+  KeyRound,
   LayoutDashboard,
   LogOut,
   Mail,
@@ -44,7 +45,7 @@ export function AdminShell({ children }: { children: ReactNode }) {
   const nav = (
     <nav aria-label="Quản trị" className="flex h-full flex-col">
       <Link href="/admin" className="flex items-center gap-3 px-5 py-5">
-        <LogoMark className="h-10 w-10 rounded-full" />
+        <LogoMark className="h-10" />
         <span className="leading-tight">
           <span className="block font-display text-sm font-bold text-white">BV Mắt BR-VT</span>
           <span className="block text-xs text-primary-200">Trang quản trị</span>
@@ -71,6 +72,17 @@ export function AdminShell({ children }: { children: ReactNode }) {
         <a href="/" target="_blank" className="flex min-h-11 items-center gap-3 rounded-xl px-3 text-primary-100 hover:bg-white/10">
           <ExternalLink className="h-5 w-5" aria-hidden /> Xem website
         </a>
+        <Link
+          href="/admin/doi-mat-khau"
+          onClick={() => setOpen(false)}
+          aria-current={pathname === "/admin/doi-mat-khau" ? "page" : undefined}
+          className={clsx(
+            "flex min-h-11 items-center gap-3 rounded-xl px-3",
+            pathname === "/admin/doi-mat-khau" ? "bg-white text-primary-900" : "text-primary-100 hover:bg-white/10",
+          )}
+        >
+          <KeyRound className="h-5 w-5" aria-hidden /> Đổi mật khẩu
+        </Link>
         <form action={logout}>
           <button type="submit" className="flex min-h-11 w-full cursor-pointer items-center gap-3 rounded-xl px-3 text-primary-100 hover:bg-white/10">
             <LogOut className="h-5 w-5" aria-hidden /> Đăng xuất

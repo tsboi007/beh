@@ -29,7 +29,7 @@ export default async function SiteLayout({ children }: LayoutProps<"/">) {
           alternateName: SITE.shortName,
           slogan: SITE.tagline,
           url: SITE.url,
-          logo: `${SITE.url}/icon.svg`,
+          logo: `${SITE.url}/logo-bvm.png`,
           telephone: s.hotline,
           email: s.email,
           foundingDate: String(SITE.founded),

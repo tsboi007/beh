@@ -72,7 +72,8 @@ Repo: `https://github.com/tsboi007/beh`
 | `DATABASE_URL` | ✅ | Tự thêm ở bước 3 |
 | `AUTH_SECRET` | ✅ | Chuỗi ngẫu nhiên ≥ 32 ký tự, tạo bằng `openssl rand -hex 32` |
 | `ADMIN_EMAIL` | ✅ | Email đăng nhập Admin |
-| `ADMIN_PASSWORD` | ✅ | Mật khẩu Admin (mạnh, ≥ 12 ký tự) |
+| `ADMIN_PASSWORD` | ✅ | Mật khẩu ban đầu (chỉ dùng khi tạo tài khoản lần đầu; sau đó đổi trong Admin → Đổi mật khẩu) |
+| `ADMIN_RESET_PASSWORD` | Khi quên mật khẩu | Đặt `1` rồi deploy lại để đặt mật khẩu về giá trị `ADMIN_PASSWORD`; xóa biến này sau khi xong |
 | `NEXT_PUBLIC_SITE_URL` | Khi có tên miền riêng | VD: `https://beh.vn`. Để trống thì website tự dùng tên miền `*.vercel.app` của project |
 | `BLOB_READ_WRITE_TOKEN` | Nên có | Tự thêm ở bước 4 |
 | `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS` | Tùy chọn | Gửi email báo lịch hẹn mới (Gmail: dùng *App Password*) |
@@ -95,8 +96,8 @@ Vào **Settings → Domains**, thêm tên miền rồi trỏ DNS theo hướng d
 - [ ] **Link Zalo**: thay bằng link Zalo OA hoặc số di động có Zalo (`https://zalo.me/<số>`). Số máy bàn không dùng được Zalo.
 - [ ] Thêm **bác sĩ** (ảnh, học vị, chức vụ) và **ảnh** cho bài viết.
 - [ ] **Khoa chuyên môn duyệt nội dung y khoa** (trang dịch vụ, bài viết, câu trả lời mẫu ở mục Hỏi đáp) trước khi đăng.
-- [ ] Thay logo SVG tạm (`src/components/logo.tsx`, `src/app/icon.svg`) bằng **file vector logo chính thức** khi bệnh viện cung cấp.
-- [ ] **Đổi mật khẩu Admin** (biến `ADMIN_PASSWORD` trên Vercel) sang mật khẩu mạnh ≥ 12 ký tự rồi deploy lại.
+- [x] Logo chính thức (`public/logo-bvm.png`, favicon `src/app/icon.png`). Khi có bản vector (SVG) nên thay để nét hơn trên màn hình lớn.
+- [ ] **Đổi mật khẩu Admin** sang mật khẩu mạnh ≥ 12 ký tự tại Admin → Đổi mật khẩu (đăng nhập bằng `admin` hoặc `admin@beh.vn`).
 
 ## Cấu trúc thư mục
 

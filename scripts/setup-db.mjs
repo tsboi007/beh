@@ -160,15 +160,21 @@ await once("import:hours-2026-10", "Updated working hours", async () => {
   }
 });
 
-const email = process.env.ADMIN_EMAIL;
+// Admin account: created once from ADMIN_EMAIL / ADMIN_PASSWORD. After that the password is
+// managed in Admin → Đổi mật khẩu; set ADMIN_RESET_PASSWORD=1 for one deploy to force-reset it.
+const email = process.env.ADMIN_EMAIL?.toLowerCase();
 const password = process.env.ADMIN_PASSWORD;
 if (email && password) {
   const hash = await bcrypt.hash(password, 12);
-  await db.execute(
-    sql`insert into admins (email, name, password_hash) values (${email.toLowerCase()}, ${"Quản trị viên"}, ${hash})
-        on conflict (email) do update set password_hash = excluded.password_hash`,
+  const reset = process.env.ADMIN_RESET_PASSWORD === "1";
+  const res = await db.execute(
+    reset
+      ? sql`insert into admins (email, name, password_hash) values (${email}, ${"Quản trị viên"}, ${hash})
+            on conflict (email) do update set password_hash = excluded.password_hash returning id`
+      : sql`insert into admins (email, name, password_hash) values (${email}, ${"Quản trị viên"}, ${hash})
+            on conflict (email) do nothing returning id`,
   );
-  console.log(`✓ Admin account ready: ${email}`);
+  console.log(res.rows?.length ? `✓ Admin account ${reset ? "password reset" : "created"}: ${email}` : `✓ Admin account exists: ${email}`);
 } else if ((await count("admins")) === 0) {
   console.warn("! No admin account. Set ADMIN_EMAIL and ADMIN_PASSWORD then run again.");
 }

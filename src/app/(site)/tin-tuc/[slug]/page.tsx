@@ -122,7 +122,7 @@ async function PostDetail({ params }: PageProps<"/tin-tuc/[slug]">) {
           url: `${SITE.url}/tin-tuc/${post.slug}`,
           inLanguage: "vi",
           author: { "@type": "Organization", name: SITE.name },
-          publisher: { "@type": "Organization", name: SITE.name, logo: { "@type": "ImageObject", url: `${SITE.url}/icon.svg` } },
+          publisher: { "@type": "Organization", name: SITE.name, logo: { "@type": "ImageObject", url: `${SITE.url}/logo-bvm.png` } },
         }}
       />
     </>

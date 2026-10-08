@@ -1,12 +1,12 @@
 "use server";
 
 import bcrypt from "bcryptjs";
-import { eq } from "drizzle-orm";
+import { eq, like, or } from "drizzle-orm";
 import { refresh, updateTag } from "next/cache";
 import { redirect } from "next/navigation";
 import { headers } from "next/headers";
 import { getDb, schema } from "@/lib/db";
-import { createSession, destroySession, requireAdmin } from "@/lib/auth";
+import { createSession, destroySession, getAdmin, requireAdmin } from "@/lib/auth";
 import { TAGS } from "@/lib/data";
 import { saveUpload } from "@/lib/storage";
 import { slugify } from "@/lib/utils";
@@ -40,18 +40,42 @@ export async function login(_: AdminState, fd: FormData): Promise<AdminState> {
   if (a && a.n >= 8 && Date.now() - a.at < 15 * 60 * 1000) {
     return { error: "Đăng nhập sai quá nhiều lần. Vui lòng thử lại sau 15 phút." };
   }
-  const email = str(fd, "email").toLowerCase();
+  // Accept the full email or just its username part ("admin" for admin@beh.vn).
+  const login = str(fd, "email").toLowerCase();
+  const username = login.replace(/[^a-z0-9._-]/g, "");
   const password = String(fd.get("password") ?? "");
+  if (!login || !password) return { error: "Vui lòng nhập tên đăng nhập và mật khẩu." };
   const db = await getDb();
-  const [admin] = await db.select().from(schema.admins).where(eq(schema.admins.email, email)).limit(1);
+  const [admin] = await db
+    .select()
+    .from(schema.admins)
+    .where(login.includes("@") ? eq(schema.admins.email, login) : or(eq(schema.admins.email, login), like(schema.admins.email, `${username}@%`)))
+    .limit(1);
   const ok = admin ? await bcrypt.compare(password, admin.passwordHash) : false;
   if (!admin || !ok) {
     attempts.set(ip, { n: (a?.n ?? 0) + 1, at: Date.now() });
-    return { error: "Email hoặc mật khẩu không đúng." };
+    return { error: "Tên đăng nhập hoặc mật khẩu không đúng." };
   }
   attempts.delete(ip);
   await createSession({ id: admin.id, email: admin.email, name: admin.name });
   redirect("/admin");
+}
+
+export async function changePassword(_: AdminState, fd: FormData): Promise<AdminState> {
+  const session = await getAdmin();
+  if (!session) redirect("/admin/login");
+  const current = String(fd.get("current") ?? "");
+  const next = String(fd.get("next") ?? "");
+  const confirm = String(fd.get("confirm") ?? "");
+  const db = await getDb();
+  const [admin] = await db.select().from(schema.admins).where(eq(schema.admins.id, session.id)).limit(1);
+  if (!admin || !(await bcrypt.compare(current, admin.passwordHash))) return { error: "Mật khẩu hiện tại không đúng." };
+  if (next.length < 8) return { error: "Mật khẩu mới cần tối thiểu 8 ký tự." };
+  if (next === current) return { error: "Mật khẩu mới phải khác mật khẩu hiện tại." };
+  if (next !== confirm) return { error: "Nhập lại mật khẩu mới chưa khớp." };
+  if (next.toLowerCase().includes(admin.email.split("@")[0])) return { error: "Mật khẩu không được chứa tên đăng nhập." };
+  await db.update(schema.admins).set({ passwordHash: await bcrypt.hash(next, 12) }).where(eq(schema.admins.id, admin.id));
+  return { ok: true };
 }
 
 export async function logout() {
